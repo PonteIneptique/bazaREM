@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>547895</docId>
+    <title>Valentin et Orson</title>
+    <author>Anonyme</author>
+    <uploadTimestamp>1606897997840</uploadTimestamp>
+    <genre>roman de chevalerie</genre>
+    <uploader>jean-baptiste.camps@enc-sorbonne.fr</uploader>
+    <uploaderId>10500</uploaderId>
+    <nrOfPages>16</nrOfPages>
+    <pageId>22876340</pageId>
+    <url>https://files.transkribus.eu/Get?id=LTIOQVMUGFQBKPZDGWVLIQKZ&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=LTIOQVMUGFQBKPZDGWVLIQKZ&amp;fileType=thumb</thumbUrl>
+    <externalId>NA</externalId>
+    <authority>NA</authority>
+    <language>French</language>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_547895</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>53702</colId>
+            <colName>Formation</colName>
+            <description>created by thibault.clerice@chartes.psl.eu</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

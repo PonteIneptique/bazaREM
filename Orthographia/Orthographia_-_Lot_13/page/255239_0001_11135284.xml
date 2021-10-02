@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Orthographia(htr_id=18629)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+Transkribus</Creator>
+        <Created>2019-11-19T14:49:45.112+01:00</Created>
+        <LastChange>2019-11-19T17:01:23.855+01:00</LastChange>
+        <TranskribusMetadata docId="255239" pageId="11135284" pageNr="1" tsid="19584246" status="GT" userId="40012" imgUrl="https://files.transkribus.eu/Get?id=SNOQUNFVVJKZZFWITKGCOSTO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQJZUHIRFSVKNFJMHXZZHMOJ" imageId="7600004"/>
+    </Metadata>
+    <Page imageFilename="255239_0001_11135284.jpg" imageWidth="1749" imageHeight="2481">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1633103340203" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="373,75 373,1924 1384,1924 1384,75"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="375,109 403,110 431,113 431,79 403,76 375,75"/>
+                <Baseline points="375,98 403,99 431,102"/>
+                <TextEquiv>
+                    <Unicode>XI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="496,110 535,110 575,110 615,110 655,110 695,110 735,110 775,110 815,110 855,110 895,110 935,111 975,111 1015,111 1055,111 1095,111 1135,111 1175,111 1215,111 1255,111 1255,77 1215,77 1175,77 1135,77 1095,77 1055,77 1015,77 975,77 935,77 895,76 855,76 815,76 775,76 735,76 695,76 655,76 615,76 575,76 535,76 496,76"/>
+                <Baseline points="496,99 535,99 575,99 615,99 655,99 695,99 735,99 775,99 815,99 855,99 895,99 935,100 975,100 1015,100 1055,100 1095,100 1135,100 1175,100 1215,100 1255,100"/>
+                <TextEquiv>
+                    <Unicode>Zeit der Abfassung des urspr. Trakt., 13/14. Jh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="477,203 522,203 567,203 612,203 657,203 702,203 747,203 792,203 837,203 882,203 928,203 973,203 1018,203 1063,202 1108,202 1153,202 1198,201 1243,201 1288,200 1333,199 1379,198 1379,168 1333,169 1288,170 1243,171 1198,171 1153,172 1108,172 1063,172 1018,173 973,173 928,173 882,173 837,173 792,173 747,173 702,173 657,173 612,173 567,173 522,173 477,173"/>
+                <Baseline points="477,193 522,193 567,193 612,193 657,193 702,193 747,193 792,193 837,193 882,193 928,193 973,193 1018,193 1063,192 1108,192 1153,192 1198,191 1243,191 1288,190 1333,189 1379,188"/>
+                <TextEquiv>
+                    <Unicode>2) XII (T 10, H 27, CO 46) heisst es: que vel qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="376,245 425,245 475,245 525,245 575,245 625,246 674,246 724,246 774,246 824,246 874,246 923,246 973,246 1023,245 1073,245 1123,244 1172,244 1222,243 1272,242 1322,241 1372,239 1372,209 1322,211 1272,212 1222,213 1172,214 1123,214 1073,215 1023,215 973,216 923,216 874,216 824,216 774,216 724,216 674,216 625,216 575,215 525,215 475,215 425,215 376,215"/>
+                <Baseline points="376,235 425,235 475,235 525,235 575,235 625,236 674,236 724,236 774,236 824,236 874,236 923,236 973,236 1023,235 1073,235 1123,234 1172,234 1222,233 1272,232 1322,231 1372,229"/>
+                <TextEquiv>
+                    <Unicode>consuevit olim scribi cum k, sed apud modernos commu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="375,287 425,288 475,288 525,288 575,288 626,288 676,289 726,289 776,289 826,289 877,289 927,289 977,288 1027,288 1077,288 1128,287 1178,287 1228,286 1278,285 1328,284 1379,283 1379,253 1328,254 1278,255 1228,256 1178,257 1128,257 1077,258 1027,258 977,258 927,259 877,259 826,259 776,259 726,259 676,259 626,258 575,258 525,258 475,258 425,258 375,257"/>
+                <Baseline points="375,277 425,278 475,278 525,278 575,278 626,278 676,279 726,279 776,279 826,279 877,279 927,279 977,278 1027,278 1077,278 1128,277 1178,277 1228,276 1278,275 1328,274 1379,273"/>
+                <TextEquiv>
+                    <Unicode>tatur k in q. Die Schreibung ki und vollends ke kommt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="379,330 429,331 479,331 529,331 579,332 629,332 679,332 729,332 779,332 829,332 879,332 929,332 979,331 1029,331 1079,331 1129,330 1179,329 1229,329 1279,328 1329,326 1380,325 1380,295 1329,296 1279,298 1229,299 1179,299 1129,300 1079,301 1029,301 979,301 929,302 879,302 829,302 779,302 729,302 679,302 629,302 579,302 529,301 479,301 429,301 379,300"/>
+                <Baseline points="379,320 429,321 479,321 529,321 579,322 629,322 679,322 729,322 779,322 829,322 879,322 929,322 979,321 1029,321 1079,321 1129,320 1179,319 1229,319 1279,318 1329,316 1380,315"/>
+                <TextEquiv>
+                    <Unicode>erst nach der Mitte des 12. Jh. in Gebrauch *). Von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="373,373 422,373 472,374 521,374 571,374 621,375 670,375 720,375 770,375 819,375 869,375 919,375 968,375 1018,375 1068,374 1117,374 1167,373 1217,373 1266,372 1316,371 1380,368 1380,338 1316,341 1266,342 1217,343 1167,343 1117,344 1068,344 1018,345 968,345 919,345 869,345 819,345 770,345 720,345 670,345 621,345 571,344 521,344 472,344 422,343 373,343"/>
+                <Baseline points="373,363 422,363 472,364 521,364 571,364 621,365 670,365 720,365 770,365 819,365 869,365 919,365 968,365 1018,365 1068,364 1117,364 1167,363 1217,363 1266,362 1316,361 1381,361"/>
+                <TextEquiv>
+                    <Unicode>den Strassburger Eiden bis herab zum Londoner Com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="376,417 425,417 475,417 525,417 575,418 625,418 675,418 725,418 775,419 825,419 875,419 924,419 974,419 1024,419 1074,418 1124,418 1174,417 1224,416 1274,415 1324,414 1374,412 1374,382 1324,384 1274,385 1224,386 1174,387 1124,388 1074,388 1024,389 974,389 924,389 875,389 825,389 775,389 725,388 675,388 625,388 575,388 525,387 475,387 425,387 376,387"/>
+                <Baseline points="376,407 425,407 475,407 525,407 575,408 625,408 675,408 725,408 775,409 825,409 875,409 924,409 974,409 1024,409 1074,408 1124,408 1174,407 1224,406 1274,405 1324,404 1374,402"/>
+                <TextEquiv>
+                    <Unicode>putus findet sich immer nur qui oder chi vor und bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="375,459 425,459 475,460 525,461 575,461 625,462 675,462 725,463 775,463 825,463 875,463 925,463 975,462 1025,462 1075,462 1125,461 1175,460 1225,460 1275,459 1325,458 1375,457 1375,427 1325,428 1275,429 1225,430 1175,430 1125,431 1075,432 1025,432 975,432 925,433 875,433 825,433 775,433 725,433 675,432 625,432 575,431 525,431 475,430 425,429 375,429"/>
+                <Baseline points="375,449 425,449 475,450 525,451 575,451 625,452 675,452 725,453 775,453 825,453 875,453 925,453 975,452 1025,452 1075,452 1125,451 1175,450 1225,450 1275,449 1325,448 1375,447"/>
+                <TextEquiv>
+                    <Unicode>ans Ende des 12. Jh. que. Beide ki und ke scheinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="377,503 426,503 476,504 526,504 576,505 626,505 676,505 726,506 776,506 826,506 876,506 925,506 975,506 1025,506 1075,506 1125,506 1175,505 1225,504 1275,504 1325,503 1375,501 1375,471 1325,473 1275,474 1225,474 1175,475 1125,476 1075,476 1025,476 975,476 925,476 876,476 826,476 776,476 726,476 676,475 626,475 576,475 526,474 476,474 426,473 377,473"/>
+                <Baseline points="377,493 426,493 476,494 526,494 576,495 626,495 676,495 726,496 776,496 826,496 876,496 925,496 975,496 1025,496 1075,496 1125,496 1175,495 1225,494 1275,494 1325,493 1375,491"/>
+                <TextEquiv>
+                    <Unicode>ganz besonders im Anfang des 13. Jh. im Schwang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="380,548 407,548 434,547 461,547 488,547 515,547 543,547 570,547 597,547 624,548 651,549 679,550 679,519 651,518 624,517 597,516 570,516 543,516 515,516 488,516 461,516 434,516 407,517 380,517"/>
+                <Baseline points="380,538 407,538 434,537 461,537 488,537 515,537 543,537 570,537 597,537 624,538 651,539 679,540"/>
+                <TextEquiv>
+                    <Unicode>gewesen zu sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="471,650 515,650 559,650 603,650 647,650 691,650 735,650 780,650 824,650 868,650 912,650 956,650 1000,650 1044,650 1089,649 1133,649 1177,649 1221,649 1265,648 1309,648 1354,648 1354,614 1309,614 1265,614 1221,615 1177,615 1133,615 1089,615 1044,616 1000,616 956,616 912,616 868,616 824,616 780,616 735,616 691,616 647,616 603,616 559,616 515,616 471,616"/>
+                <Baseline points="471,639 515,639 559,639 603,639 647,639 691,639 735,639 780,639 824,639 868,639 912,639 956,639 1000,639 1044,639 1089,638 1133,638 1177,638 1221,638 1265,637 1309,637 1354,637"/>
+                <TextEquiv>
+                    <Unicode>Nach den Urkunden verhält es sich so: die von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="378,719 430,719 483,718 535,718 588,718 640,718 693,718 746,717 798,717 851,717 903,717 956,717 1008,717 1061,717 1114,717 1166,717 1219,717 1271,717 1324,717 1377,717 1377,686 1324,686 1271,686 1219,686 1166,686 1114,686 1061,686 1008,686 956,686 903,686 851,686 798,686 746,686 693,687 640,687 588,687 535,687 483,687 430,688 378,688"/>
+                <Baseline points="378,709 430,709 483,708 535,708 588,708 640,708 693,708 746,707 798,707 851,707 903,707 956,707 1008,707 1061,707 1114,707 1166,707 1219,707 1271,707 1324,707 1377,707"/>
+                <TextEquiv>
+                    <Unicode>1215 (Sir James, Coll. I, XII) hat: ki 3 mal, ke 3 mal,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="1044,762 1071,761 1099,761 1127,760 1155,759 1183,759 1211,760 1239,761 1239,731 1211,730 1183,729 1155,729 1127,730 1099,731 1071,731 1044,732"/>
+                <Baseline points="1044,752 1071,751 1099,751 1127,750 1155,749 1183,749 1211,750 1239,751"/>
+                <TextEquiv>
+                    <Unicode>que einmal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="379,804 426,804 473,804 520,803 568,803 615,803 662,803 710,804 757,804 804,804 852,804 899,804 946,804 994,804 1041,804 1088,804 1136,804 1183,804 1230,803 1278,803 1278,773 1230,773 1183,774 1136,774 1088,774 1041,774 994,774 946,774 899,774 852,774 804,774 757,774 710,774 662,773 615,773 568,773 520,773 473,774 426,774 379,774"/>
+                <Baseline points="379,794 426,794 473,794 520,793 568,793 615,793 662,793 710,794 757,794 804,794 852,794 899,794 946,794 994,794 1041,794 1088,794 1136,794 1183,794 1230,793 1278,793"/>
+                <TextEquiv>
+                    <Unicode>1256 (Rymer, Foed. I, 588—9): ki, ke, kaunt, kar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171737766_235" custom="readingOrder {index:15;}">
+                <Coords points="388,801 486,807 906,801 1378,797 1378,847 907,851 485,857 385,851"/>
+                <Baseline points="385,846 485,852 907,846 1378,842"/>
+                <TextEquiv>
+                    <Unicode>1259( — — 1,675—7): qui, que, qe, qu’on, nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="957,890 985,890 1014,890 1043,890 1071,889 1100,889 1129,890 1129,860 1100,859 1071,859 1043,860 1014,860 985,860 957,860"/>
+                <Baseline points="957,880 985,880 1014,880 1043,880 1071,879 1100,879 1129,880"/>
+                <TextEquiv>
+                    <Unicode>einmal ke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171744733_240" custom="readingOrder {index:17;}">
+                <Coords points="382,885 473,886 1144,883 1144,933 473,936 382,935"/>
+                <Baseline points="382,930 473,931 1144,928"/>
+                <TextEquiv>
+                    <Unicode>1265( — — 1, 838 ): que, quar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171758058_252" custom="readingOrder {index:18;}">
+                <Coords points="378,928 1176,928 1176,978 378,978"/>
+                <Baseline points="378,973 1176,973"/>
+                <TextEquiv>
+                    <Unicode>1266 ( — — ): ke und que.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171764587_257" custom="readingOrder {index:19;}">
+                <Coords points="385,969 1144,969 1144,1019 385,1019"/>
+                <Baseline points="385,1014 1144,1014"/>
+                <TextEquiv>
+                    <Unicode>1268 ( — — I,847—8): ke 11 mal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:20;}">
+                <Coords points="1282,1037 1314,1038 1346,1037 1379,1039 1379,1005 1346,1003 1314,1004 1282,1003"/>
+                <Baseline points="1282,1026 1314,1027 1346,1026 1379,1028"/>
+                <TextEquiv>
+                    <Unicode>beide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171769213_262" custom="readingOrder {index:21;}">
+                <Coords points="378,1010 1264,1011 1264,1061 378,1060"/>
+                <Baseline points="378,1055 1264,1056"/>
+                <TextEquiv>
+                    <Unicode>1268( — — I,848—9): que,qe,kenur 1 mal)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171780214_272" custom="readingOrder {index:22;}">
+                <Coords points="960,1053 1382,1056 1382,1106 960,1103"/>
+                <Baseline points="960,1098 1382,1101"/>
+                <TextEquiv>
+                    <Unicode>aus Wodestoke datirt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171774883_267" custom="readingOrder {index:23;}">
+                <Coords points="380,1099 1081,1099 1081,1149 380,1149"/>
+                <Baseline points="380,1144 1081,1144"/>
+                <TextEquiv>
+                    <Unicode>1269( — — 1,858—9): qi, qe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:24;}">
+                <Coords points="1273,1166 1300,1165 1328,1165 1356,1165 1384,1165 1384,1131 1356,1131 1328,1131 1300,1131 1273,1132"/>
+                <Baseline points="1273,1155 1300,1154 1328,1154 1356,1154 1384,1154"/>
+                <TextEquiv>
+                    <Unicode> beide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171806235_284" custom="readingOrder {index:25;}">
+                <Coords points="380,1144 1248,1145 1248,1195 380,1194"/>
+                <Baseline points="380,1189 1248,1190"/>
+                <TextEquiv>
+                    <Unicode>1270 ( — — 1,862—4): ky, ke, hant, keus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171809286_289" custom="readingOrder {index:26;}">
+                <Coords points="959,1184 1382,1181 1382,1231 959,1234"/>
+                <Baseline points="959,1229 1382,1226"/>
+                <TextEquiv>
+                    <Unicode>aus Wyncestre datirt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171812766_294" custom="readingOrder {index:27;}">
+                <Coords points="377,1227 1137,1227 1137,1277 377,1277"/>
+                <Baseline points="377,1272 1137,1272"/>
+                <TextEquiv>
+                    <Unicode>1271 ( — — I. ): ki, ke, kil.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171819302_299" custom="readingOrder {index:28;}">
+                <Coords points="384,1271 1008,1270 1008,1320 384,1321"/>
+                <Baseline points="384,1316 1008,1315"/>
+                <TextEquiv>
+                    <Unicode>1272( — — I, ): ke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171826551_304" custom="readingOrder {index:29;}">
+                <Coords points="380,1312 1162,1313 1162,1363 380,1362"/>
+                <Baseline points="380,1357 1162,1358"/>
+                <TextEquiv>
+                    <Unicode>1274( — — ):ky, ke, que.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171830832_309" custom="readingOrder {index:30;}">
+                <Coords points="379,1354 1069,1356 1069,1406 379,1404"/>
+                <Baseline points="379,1399 1069,1401"/>
+                <TextEquiv>
+                    <Unicode>1276( — —): qi, qe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171834264_314" custom="readingOrder {index:31;}">
+                <Coords points="375,1392 1009,1400 1008,1450 374,1442"/>
+                <Baseline points="374,1437 1008,1445"/>
+                <TextEquiv>
+                    <Unicode>1277 ( — — II,86 ): ke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574171838235_319" custom="readingOrder {index:32;}">
+                <Coords points="380,1440 1203,1443 1203,1493 380,1490"/>
+                <Baseline points="380,1485 1203,1488"/>
+                <TextEquiv>
+                    <Unicode>1278( — — II, 106—7): qe, qil, quele.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l73" custom="readingOrder {index:33;}">
+                <Coords points="385,1531 426,1531 467,1531 508,1531 549,1531 590,1531 631,1531 672,1532 713,1532 754,1533 795,1533 836,1533 877,1534 918,1534 959,1534 1000,1534 1041,1534 1082,1534 1123,1534 1164,1533 1206,1532 1206,1502 1164,1503 1123,1504 1082,1504 1041,1504 1000,1504 959,1504 918,1504 877,1504 836,1503 795,1503 754,1503 713,1502 672,1502 631,1501 590,1501 549,1501 508,1501 467,1501 426,1501 385,1501"/>
+                <Baseline points="385,1521 426,1521 467,1521 508,1521 549,1521 590,1521 631,1521 672,1522 713,1522 754,1523 795,1523 836,1523 877,1524 918,1524 959,1524 1000,1524 1041,1524 1082,1524 1123,1524 1164,1523 1206,1522"/>
+                <TextEquiv>
+                    <Unicode>1277 Derbyshire (Wolley Chart. 4. 5): qe, quele.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l74" custom="readingOrder {index:34;}">
+                <Coords points="383,1574 419,1574 456,1575 493,1575 530,1575 566,1576 603,1576 640,1576 677,1576 714,1576 750,1576 787,1576 824,1576 861,1576 898,1576 934,1576 971,1576 1008,1576 1045,1576 1082,1576 1082,1546 1045,1546 1008,1546 971,1546 934,1546 898,1546 861,1546 824,1546 787,1546 750,1546 714,1546 677,1546 640,1546 603,1546 566,1546 530,1545 493,1545 456,1545 419,1544 383,1544"/>
+                <Baseline points="383,1564 419,1564 456,1565 493,1565 530,1565 566,1566 603,1566 640,1566 677,1566 714,1566 750,1566 787,1566 824,1566 861,1566 898,1566 934,1566 971,1566 1008,1566 1045,1566 1082,1566"/>
+                <TextEquiv>
+                    <Unicode>1280 (Rymer II, 159): ke, kar, quan ke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l75" custom="readingOrder {index:35;}">
+                <Coords points="382,1617 429,1617 476,1617 523,1617 571,1617 618,1618 665,1619 712,1619 760,1620 807,1621 854,1621 901,1622 949,1623 996,1623 1043,1623 1090,1623 1138,1623 1185,1622 1232,1621 1279,1620 1327,1618 1327,1588 1279,1590 1232,1591 1185,1592 1138,1593 1090,1593 1043,1593 996,1593 949,1593 901,1592 854,1591 807,1591 760,1590 712,1589 665,1589 618,1588 571,1587 523,1587 476,1587 429,1587 382,1587"/>
+                <Baseline points="382,1607 429,1607 476,1607 523,1607 571,1607 618,1608 665,1609 712,1609 760,1610 807,1611 854,1611 901,1612 949,1613 996,1613 1043,1613 1090,1613 1138,1613 1185,1612 1232,1611 1279,1610 1327,1608"/>
+                <TextEquiv>
+                    <Unicode>1280 London (Addit. Chart. 20437): qe, qil, qa, quen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l76" custom="readingOrder {index:36;}">
+                <Coords points="383,1660 414,1661 445,1661 476,1661 507,1661 538,1662 569,1662 600,1662 631,1662 662,1663 693,1663 724,1663 755,1663 786,1663 817,1663 848,1663 879,1663 910,1663 941,1663 972,1663 1003,1662 1003,1632 972,1633 941,1633 910,1633 879,1633 848,1633 817,1633 786,1633 755,1633 724,1633 693,1633 662,1633 631,1632 600,1632 569,1632 538,1632 507,1631 476,1631 445,1631 414,1631 383,1630"/>
+                <Baseline points="383,1650 414,1651 445,1651 476,1651 507,1651 538,1652 569,1652 600,1652 631,1652 662,1653 693,1653 724,1653 755,1653 786,1653 817,1653 848,1653 879,1653 910,1653 941,1653 972,1653 1003,1652"/>
+                <TextEquiv>
+                    <Unicode>1281 (Rymer, II, 165): qui, que, ke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l77" custom="readingOrder {index:37;}">
+                <Coords points="475,1726 520,1726 565,1726 610,1726 655,1726 700,1727 745,1727 790,1727 835,1727 880,1728 926,1728 971,1728 1016,1728 1061,1729 1106,1729 1151,1729 1196,1729 1241,1730 1286,1730 1331,1730 1377,1730 1377,1696 1331,1696 1286,1696 1241,1696 1196,1695 1151,1695 1106,1695 1061,1695 1016,1694 971,1694 926,1694 880,1694 835,1693 790,1693 745,1693 700,1693 655,1692 610,1692 565,1692 520,1692 475,1692"/>
+                <Baseline points="475,1715 520,1715 565,1715 610,1715 655,1715 700,1716 745,1716 790,1716 835,1716 880,1717 926,1717 971,1717 1016,1717 1061,1718 1106,1718 1151,1718 1196,1718 1241,1719 1286,1719 1331,1719 1377,1719"/>
+                <TextEquiv>
+                    <Unicode>Von hier ab habe ich fast nur qui, que, qi, qe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l78" custom="readingOrder {index:38;}">
+                <Coords points="477,1844 522,1846 567,1847 613,1849 658,1849 703,1850 749,1850 794,1850 839,1850 885,1850 930,1850 975,1850 1021,1849 1066,1849 1111,1849 1157,1849 1202,1849 1247,1849 1293,1849 1338,1850 1384,1851 1384,1821 1338,1820 1293,1819 1247,1819 1202,1819 1157,1819 1111,1819 1066,1819 1021,1819 975,1820 930,1820 885,1820 839,1820 794,1820 749,1820 703,1820 658,1819 613,1819 567,1817 522,1816 477,1814"/>
+                <Baseline points="477,1834 522,1836 567,1837 613,1839 658,1839 703,1840 749,1840 794,1840 839,1840 885,1840 930,1840 975,1840 1021,1839 1066,1839 1111,1839 1157,1839 1202,1839 1247,1839 1293,1839 1338,1840 1384,1841"/>
+                <TextEquiv>
+                    <Unicode>*) Littré (s. qui) setzt allerdings die ki im Rol. ins 11. Jh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l79" custom="readingOrder {index:39;}">
+                <Coords points="376,1886 426,1886 476,1886 526,1886 576,1886 626,1886 676,1886 727,1886 777,1886 827,1887 877,1887 927,1887 977,1887 1027,1887 1078,1887 1128,1887 1178,1887 1228,1886 1278,1886 1328,1885 1379,1885 1379,1855 1328,1855 1278,1856 1228,1856 1178,1857 1128,1857 1078,1857 1027,1857 977,1857 927,1857 877,1857 827,1857 777,1856 727,1856 676,1856 626,1856 576,1856 526,1856 476,1856 426,1856 376,1856"/>
+                <Baseline points="376,1876 426,1876 476,1876 526,1876 576,1876 626,1876 676,1876 727,1876 777,1876 827,1877 877,1877 927,1877 977,1877 1027,1877 1078,1877 1128,1877 1178,1877 1228,1876 1278,1876 1328,1875 1379,1875"/>
+                <TextEquiv>
+                    <Unicode>sie gehören aber in die 2. Hälfte des 12. Jh., da sie bloss der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l80" custom="readingOrder {index:40;}">
+                <Coords points="381,1922 409,1922 437,1923 466,1923 494,1923 523,1923 551,1923 579,1924 608,1924 636,1923 665,1923 693,1923 721,1923 750,1923 778,1923 807,1923 835,1923 863,1923 892,1923 920,1924 949,1924 949,1894 920,1894 892,1893 863,1893 835,1893 807,1893 778,1893 750,1893 721,1893 693,1893 665,1893 636,1893 608,1894 579,1894 551,1893 523,1893 494,1893 466,1893 437,1893 409,1892 381,1892"/>
+                <Baseline points="381,1912 409,1912 437,1913 466,1913 494,1913 523,1913 551,1913 579,1914 608,1914 636,1913 665,1913 693,1913 721,1913 750,1913 778,1913 807,1913 835,1913 863,1913 892,1913 920,1914 949,1914"/>
+                <TextEquiv>
+                    <Unicode>Oxforder Hdsch. eigenthümlich sind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>XI
+Zeit der Abfassung des urspr. Trakt., 13/14. Jh.
+2) XII (T 10, H 27, CO 46) heisst es: que vel qui
+consuevit olim scribi cum k, sed apud modernos commu¬
+tatur k in q. Die Schreibung ki und vollends ke kommt
+erst nach der Mitte des 12. Jh. in Gebrauch *). Von
+den Strassburger Eiden bis herab zum Londoner Com¬
+putus findet sich immer nur qui oder chi vor und bis
+ans Ende des 12. Jh. que. Beide ki und ke scheinen
+ganz besonders im Anfang des 13. Jh. im Schwang
+gewesen zu sein.
+Nach den Urkunden verhält es sich so: die von
+1215 (Sir James, Coll. I, XII) hat: ki 3 mal, ke 3 mal,
+que einmal.
+1256 (Rymer, Foed. I, 588—9): ki, ke, kaunt, kar.
+1259( — — 1,675—7): qui, que, qe, qu’on, nur
+einmal ke.
+1265( — — 1, 838 ): que, quar.
+1266 ( — — ): ke und que.
+1268 ( — — I,847—8): ke 11 mal.
+beide
+1268( — — I,848—9): que,qe,kenur 1 mal)
+aus Wodestoke datirt.
+1269( — — 1,858—9): qi, qe,
+ beide
+1270 ( — — 1,862—4): ky, ke, hant, keus
+aus Wyncestre datirt.
+1271 ( — — I. ): ki, ke, kil.
+1272( — — I, ): ke.
+1274( — — ):ky, ke, que.
+1276( — —): qi, qe.
+1277 ( — — II,86 ): ke.
+1278( — — II, 106—7): qe, qil, quele.
+1277 Derbyshire (Wolley Chart. 4. 5): qe, quele.
+1280 (Rymer II, 159): ke, kar, quan ke.
+1280 London (Addit. Chart. 20437): qe, qil, qa, quen.
+1281 (Rymer, II, 165): qui, que, ke.
+Von hier ab habe ich fast nur qui, que, qi, qe
+*) Littré (s. qui) setzt allerdings die ki im Rol. ins 11. Jh.
+sie gehören aber in die 2. Hälfte des 12. Jh., da sie bloss der
+Oxforder Hdsch. eigenthümlich sind.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

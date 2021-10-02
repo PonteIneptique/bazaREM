@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>531886</docId>
+    <title>Desktop</title>
+    <uploadTimestamp>1604403813259</uploadTimestamp>
+    <uploader>etienne.ferrandi@hotmail.fr</uploader>
+    <uploaderId>70465</uploaderId>
+    <nrOfPages>1</nrOfPages>
+    <pageId>22505468</pageId>
+    <url>https://files.transkribus.eu/Get?id=BMTBTUNMIWHACAPJACKAIFSZ&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=BMTBTUNMIWHACAPJACKAIFSZ&amp;fileType=thumb</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_531886</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>53702</colId>
+            <colName>Formation</colName>
+            <description>created by thibault.clerice@chartes.psl.eu</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

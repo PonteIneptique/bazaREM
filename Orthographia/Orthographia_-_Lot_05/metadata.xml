@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>254079</docId>
+    <title>Orthographia - Lot 05</title>
+    <uploadTimestamp>1574073334642</uploadTimestamp>
+    <uploader>alexandre.couturier@chartes.psl.eu</uploader>
+    <uploaderId>50812</uploaderId>
+    <nrOfPages>3</nrOfPages>
+    <pageId>11121526</pageId>
+    <url>https://files.transkribus.eu/Get?id=SSOURBPCYKMMONIYVFZIATWC&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=SSOURBPCYKMMONIYVFZIATWC&amp;fileType=thumb</thumbUrl>
+    <externalId>NA</externalId>
+    <authority>NA</authority>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_254079</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>53702</colId>
+            <colName>Formation</colName>
+            <description>created by thibault.clerice@chartes.psl.eu</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

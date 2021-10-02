@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>269760</docId>
+    <title>Lot_enseignant</title>
+    <uploadTimestamp>1574835832131</uploadTimestamp>
+    <uploader>jean-baptiste.camps@enc-sorbonne.fr</uploader>
+    <uploaderId>10500</uploaderId>
+    <nrOfPages>2</nrOfPages>
+    <pageId>11257218</pageId>
+    <url>https://files.transkribus.eu/Get?id=ACLAPCTMGVDIWSRHMCBLQXVL&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=ACLAPCTMGVDIWSRHMCBLQXVL&amp;fileType=thumb</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_269760</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>53702</colId>
+            <colName>Formation</colName>
+            <description>created by thibault.clerice@chartes.psl.eu</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

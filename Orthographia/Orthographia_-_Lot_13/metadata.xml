@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>255239</docId>
+    <title>Orthographia - Lot 13</title>
+    <uploadTimestamp>1574171390793</uploadTimestamp>
+    <uploader>thibault.clerice@chartes.psl.eu</uploader>
+    <uploaderId>40012</uploaderId>
+    <nrOfPages>6</nrOfPages>
+    <pageId>11135284</pageId>
+    <url>https://files.transkribus.eu/Get?id=SNOQUNFVVJKZZFWITKGCOSTO&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=SNOQUNFVVJKZZFWITKGCOSTO&amp;fileType=thumb</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_255239</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>53702</colId>
+            <colName>Formation</colName>
+            <description>created by thibault.clerice@chartes.psl.eu</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

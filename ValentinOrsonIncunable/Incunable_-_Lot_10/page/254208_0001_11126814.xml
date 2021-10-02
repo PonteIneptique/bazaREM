@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Model_1_HTR(htr_id=14910)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Model_1_HTR(htr_id=14910)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+Transkribus</Creator>
+        <Created>2019-11-18T14:35:05.262+01:00</Created>
+        <LastChange>2019-11-18T16:44:15.211+01:00</LastChange>
+        <TranskribusMetadata docId="254208" pageId="11126814" pageNr="1" tsid="19523680" status="DONE" userId="50849" imgUrl="https://files.transkribus.eu/Get?id=RGTKROKJYZEJTTRJQEGKKQEP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NUKVZUFZGAMXWSEHKKLAMPKD" imageId="7592414"/>
+    </Metadata>
+    <Page imageFilename="254208_0001_11126814.jpg" imageWidth="3288" imageHeight="4516">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1633103351424" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="230,416 230,3799 1344,3799 1344,416"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="232,491 355,471 496,511 750,467 1039,505 1144,466 1309,473 1308,413 1246,386 1123,411 1051,372 922,411 768,413 681,370 611,411 559,385 416,430 333,381 231,414"/>
+                <Baseline points="239,473 292,472 345,471 398,470 451,469 504,468 557,467 611,467 664,466 717,465 770,465 823,464 876,463 929,463 983,462 1036,462 1089,461 1142,461 1195,460 1248,459 1302,459"/>
+                <TextEquiv>
+                    <Unicode>sast dangser Deru aiz ce Sanson.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="236,591 474,556 1219,582 1331,550 1330,492 234,496"/>
+                <Baseline points="242,563 296,562 350,561 404,560 458,559 512,558 566,558 620,557 674,556 728,555 783,554 837,553 891,552 945,551 999,551 1053,549 1107,548 1161,548 1215,546 1269,545 1324,544"/>
+                <TextEquiv>
+                    <Unicode>uisleur adit se cas du me s agier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="240,669 1208,675 1347,634 1346,580 954,562 856,597 526,570 239,601"/>
+                <Baseline points="246,648 300,648 355,648 410,647 464,647 519,647 574,646 628,646 683,645 738,644 793,643 847,643 902,641 957,641 1011,640 1066,639 1121,638 1175,638 1230,637 1285,637 1340,636"/>
+                <TextEquiv>
+                    <Unicode>Etconse.sseur denianda juree poit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="242,777 407,747 971,764 1116,729 1307,757 1337,682 1084,654 903,683 815,649 656,696 240,684"/>
+                <Baseline points="248,740 302,739 356,738 410,738 464,737 518,736 572,735 627,734 681,733 735,732 789,732 843,731 897,730 951,729 1006,729 1060,728 1114,727 1168,726 1222,726 1276,725 1331,724"/>
+                <TextEquiv>
+                    <Unicode>pour se auoir quesse parf ñ'deuoif a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="253,849 506,823 899,860 1350,807 1349,766 1231,733 835,779 251,767"/>
+                <Baseline points="260,830 314,828 368,827 422,825 476,824 530,824 584,823 639,822 693,822 747,821 801,821 855,820 909,820 963,819 1018,818 1072,817 1126,816 1180,815 1234,813 1288,812 1343,809"/>
+                <TextEquiv>
+                    <Unicode>fer ou deuers aqquit asue se sonduc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="266,945 809,913 875,945 1046,907 1311,934 1341,860 631,836 542,876 465,851 265,882"/>
+                <Baseline points="272,917 325,916 378,915 431,914 484,913 537,912 590,912 643,911 696,910 749,910 803,909 856,908 909,908 962,907 1015,907 1068,906 1121,905 1174,904 1227,904 1280,903 1334,902"/>
+                <TextEquiv>
+                    <Unicode>ecourir ou deuers sẏois pour son pa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="229,1018 899,1035 1029,1001 1237,1032 1346,995 1346,929 423,932 228,966"/>
+                <Baseline points="236,1010 291,1008 346,1007 401,1005 456,1003 512,1002 567,1002 622,1001 677,1000 732,999 788,999 843,998 898,997 953,997 1008,996 1064,995 1119,995 1174,994 1229,993 1284,992 1340,990"/>
+                <TextEquiv>
+                    <Unicode>ie.garder.afaquesse chole respondit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="224,1107 925,1121 1034,1078 1319,1124 1343,1014 468,1022 413,1052 354,1021 223,1062"/>
+                <Baseline points="231,1098 286,1096 341,1095 396,1094 452,1092 507,1092 562,1091 618,1090 673,1089 728,1089 784,1088 839,1088 894,1087 949,1087 1005,1086 1060,1085 1115,1084 1171,1083 1226,1082 1281,1081 1337,1079"/>
+                <TextEquiv>
+                    <Unicode>nusson dangser Sire fur cesre matĩ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="232,1206 962,1175 1197,1209 1329,1181 1329,1146 1258,1096 231,1146"/>
+                <Baseline points="238,1186 292,1185 346,1184 400,1183 455,1182 509,1181 563,1180 617,1179 672,1178 726,1177 780,1177 834,1176 889,1176 943,1175 997,1174 1051,1174 1106,1173 1160,1172 1214,1172 1268,1171 1323,1170"/>
+                <TextEquiv>
+                    <Unicode>ere sous deuezestre fout conseite.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="247,1300 584,1302 709,1265 869,1296 1003,1263 1272,1295 1341,1259 1340,1201 1261,1181 886,1226 246,1214"/>
+                <Baseline points="254,1272 308,1272 362,1271 416,1271 470,1271 524,1270 578,1270 632,1269 686,1269 740,1268 794,1267 848,1267 902,1266 956,1265 1010,1264 1064,1263 1118,1262 1172,1261 1226,1260 1280,1259 1334,1257"/>
+                <TextEquiv>
+                    <Unicode>Ear psus pres sous etGosire chez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="241,1384 512,1357 769,1390 985,1353 1316,1390 1332,1303 1172,1269 1094,1309 898,1284 861,1315 809,1282 720,1310 632,1275 477,1317 240,1314"/>
+                <Baseline points="248,1366 301,1365 355,1362 409,1361 463,1360 517,1359 571,1358 625,1357 679,1357 733,1357 787,1356 840,1356 894,1356 948,1355 1002,1355 1056,1354 1110,1353 1164,1352 1218,1350 1272,1348 1326,1346"/>
+                <TextEquiv>
+                    <Unicode>nuse que sostre rose.sous ne deuez </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="245,1485 649,1459 750,1486 1012,1444 1199,1483 1312,1459 1342,1390 838,1374 783,1405 589,1372 244,1409"/>
+                <Baseline points="252,1455 306,1453 360,1452 414,1451 468,1450 523,1449 577,1448 631,1447 685,1446 739,1446 794,1445 848,1445 902,1444 956,1443 1010,1443 1065,1442 1119,1441 1173,1440 1227,1439 1281,1438 1336,1437"/>
+                <TextEquiv>
+                    <Unicode>pas dessendre se pais daustrus pour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="249,1561 1043,1573 1126,1535 1183,1567 1341,1539 1340,1458 1252,1488 1101,1452 1066,1486 248,1485"/>
+                <Baseline points="256,1544 309,1541 363,1540 417,1538 471,1537 525,1537 579,1536 633,1535 687,1535 741,1534 795,1534 848,1534 902,1534 956,1533 1010,1533 1064,1532 1118,1532 1172,1531 1226,1530 1280,1529 1334,1527"/>
+                <TextEquiv>
+                    <Unicode>le softresaisser.pourquoẏ sans quĩ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="248,1656 1244,1625 1321,1657 1335,1566 1243,1539 1049,1576 247,1579"/>
+                <Baseline points="254,1636 307,1633 361,1630 415,1627 469,1626 522,1624 576,1623 630,1623 684,1622 737,1622 791,1622 845,1622 899,1622 952,1622 1006,1622 1060,1621 1114,1620 1167,1619 1221,1618 1275,1616 1329,1614"/>
+                <TextEquiv>
+                    <Unicode>fre confeis auoir sous ẏrez ẏerg sẏo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="237,1750 1344,1710 1343,1646 1243,1624 1039,1668 619,1676 527,1638 236,1677"/>
+                <Baseline points="244,1723 298,1721 353,1719 407,1718 462,1717 517,1716 571,1715 626,1715 681,1714 735,1714 790,1714 845,1713 899,1713 954,1712 1009,1712 1063,1711 1118,1710 1173,1708 1227,1707 1282,1704 1337,1701"/>
+                <TextEquiv>
+                    <Unicode>pour soffre paps garder ef de ffens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="251,1827 887,1807 950,1834 1077,1796 1346,1830 1345,1748 1284,1737 250,1752"/>
+                <Baseline points="258,1809 312,1808 366,1807 420,1806 474,1805 528,1804 582,1804 636,1803 690,1803 744,1802 798,1802 852,1801 906,1801 960,1800 1014,1800 1068,1799 1122,1798 1176,1797 1230,1796 1284,1795 1339,1794"/>
+                <TextEquiv>
+                    <Unicode>" Ore.Et qicaut ẏous auresoz enne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="240,1918 858,1924 957,1887 1065,1929 1254,1926 1341,1892 1341,1842 918,1847 861,1816 723,1853 551,1811 376,1857 239,1836"/>
+                <Baseline points="246,1901 300,1898 354,1896 409,1894 463,1893 518,1892 572,1891 627,1891 681,1890 736,1890 790,1890 844,1891 899,1891 953,1891 1008,1891 1062,1890 1117,1890 1171,1889 1226,1888 1280,1886 1335,1885"/>
+                <TextEquiv>
+                    <Unicode>mis chassez es eppesses dehors des o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="249,2009 1165,2011 1273,1971 1346,1991 1346,1922 248,1921"/>
+                <Baseline points="256,1988 310,1987 364,1985 418,1984 472,1983 526,1983 580,1982 635,1982 689,1982 743,1982 797,1982 851,1981 905,1981 959,1981 1014,1980 1068,1979 1122,1978 1176,1977 1230,1975 1284,1973 1339,1970"/>
+                <TextEquiv>
+                    <Unicode>tre ferre ef roẏausine.Adonc pours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="237,2091 925,2111 1099,2071 1331,2100 1338,1991 236,2026"/>
+                <Baseline points="244,2078 298,2075 352,2074 407,2072 461,2071 516,2070 570,2070 624,2070 679,2069 733,2069 788,2069 842,2069 896,2069 951,2069 1005,2069 1060,2068 1114,2067 1168,2066 1223,2064 1277,2061 1332,2059"/>
+                <TextEquiv>
+                    <Unicode>re zsous seuremief aler secourir ie ss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="233,2175 508,2169 604,2207 1252,2156 1344,2186 1343,2107 1118,2078 961,2120 819,2085 634,2118 233,2096"/>
+                <Baseline points="240,2164 294,2164 349,2163 404,2162 459,2162 514,2162 569,2161 623,2161 678,2161 733,2161 788,2161 843,2161 898,2160 953,2160 1007,2160 1062,2159 1117,2159 1172,2158 1227,2157 1282,2156 1337,2154"/>
+                <TextEquiv>
+                    <Unicode>duc sauarẏqui so' demande fecours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="238,2264 701,2281 781,2247 1046,2285 1343,2252 1323,2188 856,2210 713,2175 430,2213 237,2171"/>
+                <Baseline points="244,2255 298,2254 353,2253 407,2252 462,2252 516,2252 571,2251 625,2251 680,2251 734,2251 789,2250 844,2250 898,2250 953,2250 1007,2250 1062,2249 1116,2249 1171,2249 1225,2248 1280,2247 1335,2246"/>
+                <TextEquiv>
+                    <Unicode>Ce conseu creuN et afre pfa se rop.ef</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="239,2377 432,2358 494,2388 659,2338 720,2372 1056,2374 1098,2339 1337,2368 1336,2293 1172,2259 1040,2302 941,2269 848,2294 763,2260 618,2301 479,2269 402,2307 238,2305"/>
+                <Baseline points="245,2346 299,2345 353,2344 407,2343 462,2343 516,2342 570,2342 624,2341 679,2341 733,2340 787,2340 841,2340 896,2340 950,2339 1004,2339 1058,2338 1113,2338 1167,2337 1221,2336 1275,2335 1330,2334"/>
+                <TextEquiv>
+                    <Unicode>au mnesagier du Duclauarẏ oust.q</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="238,2464 1190,2461 1351,2420 1350,2363 237,2379"/>
+                <Baseline points="244,2436 299,2435 354,2434 409,2433 464,2433 519,2432 574,2432 629,2432 684,2431 739,2431 794,2431 849,2431 904,2430 959,2429 1014,2429 1069,2428 1124,2427 1179,2425 1234,2424 1289,2421 1344,2419"/>
+                <TextEquiv>
+                    <Unicode>pour se psent de moẏ ne peust au oir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="248,2547 1270,2554 1336,2529 1335,2435 1167,2476 1043,2445 993,2477 952,2449 485,2488 247,2464"/>
+                <Baseline points="255,2525 308,2524 362,2523 416,2522 469,2522 523,2521 577,2521 630,2521 684,2520 738,2520 792,2520 845,2519 899,2519 953,2519 1006,2518 1060,2517 1114,2517 1167,2516 1221,2514 1275,2513 1329,2511"/>
+                <TextEquiv>
+                    <Unicode>Jecours.car nener ne saust moi ost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="261,2630 1116,2615 1244,2655 1342,2628 1342,2539 860,2568 757,2533 625,2570 409,2539 261,2571"/>
+                <Baseline points="268,2614 321,2613 374,2612 428,2612 481,2611 535,2611 588,2611 641,2611 695,2611 748,2611 802,2611 855,2611 908,2611 962,2611 1015,2610 1069,2610 1122,2609 1175,2609 1229,2607 1282,2606 1336,2604"/>
+                <TextEquiv>
+                    <Unicode>ans seiour ne difafion. Sers se paps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="241,2720 1341,2723 1329,2633 834,2654 557,2619 489,2664 241,2638"/>
+                <Baseline points="248,2702 302,2702 356,2701 410,2701 465,2700 519,2700 573,2700 627,2700 682,2700 736,2700 790,2700 844,2700 899,2700 953,2700 1007,2699 1061,2699 1116,2698 1170,2698 1224,2697 1278,2696 1333,2694"/>
+                <TextEquiv>
+                    <Unicode>de sẏon.Je suis despsaisant que ie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="224,2802 1337,2819 1337,2734 1222,2717 1111,2748 986,2710 949,2742 575,2720 498,2752 342,2718 224,2749"/>
+                <Baseline points="231,2793 288,2792 346,2791 404,2790 462,2790 520,2790 578,2790 635,2790 693,2790 751,2790 809,2790 867,2790 925,2790 982,2790 1040,2790 1098,2789 1156,2788 1214,2787 1272,2785 1330,2782"/>
+                <TextEquiv>
+                    <Unicode>ne se puis fec ourir qi son fesois ef no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="236,2915 1342,2901 1341,2833 1266,2812 235,2818"/>
+                <Baseline points="243,2885 297,2884 352,2883 406,2883 461,2882 516,2882 570,2881 625,2881 679,2880 734,2880 789,2880 843,2879 898,2879 952,2878 1007,2878 1062,2877 1116,2876 1171,2876 1225,2875 1280,2874 1335,2873"/>
+                <TextEquiv>
+                    <Unicode>pourt ant Gous suẏdirezqui se fien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="236,2978 1300,2996 1342,2982 1342,2903 235,2913"/>
+                <Baseline points="243,2971 297,2971 352,2970 406,2970 461,2970 516,2969 570,2969 625,2969 679,2969 734,2968 789,2968 843,2968 898,2968 952,2968 1007,2968 1062,2967 1116,2967 1171,2967 1225,2967 1280,2966 1335,2966"/>
+                <TextEquiv>
+                    <Unicode>ne fouss our sserme coutre sesers css</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="231,3066 851,3098 1342,3064 1341,2982 1266,3012 231,3001"/>
+                <Baseline points="238,3059 292,3059 347,3059 402,3059 457,3059 512,3059 566,3059 621,3059 676,3060 731,3060 786,3059 840,3059 895,3059 950,3059 1005,3058 1060,3057 1114,3056 1169,3055 1224,3054 1279,3052 1334,3050"/>
+                <TextEquiv>
+                    <Unicode>u cesier.ef que moẏ aUant fait mo ens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="230,3158 1141,3181 1340,3139 1340,3089 230,3094"/>
+                <Baseline points="237,3152 291,3151 346,3150 401,3150 456,3149 511,3149 566,3150 620,3150 675,3150 730,3150 785,3151 840,3151 895,3150 950,3150 1004,3149 1059,3148 1114,3147 1169,3145 1224,3143 1279,3140 1334,3136"/>
+                <TextEquiv>
+                    <Unicode>tre prinse.gr ant le cours iesuẏ eimer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="224,3248 1228,3271 1345,3240 1345,3166 223,3183"/>
+                <Baseline points="231,3239 286,3238 341,3238 397,3238 452,3237 507,3237 563,3238 618,3238 673,3238 729,3238 784,3238 839,3238 895,3238 950,3238 1005,3237 1061,3237 1116,3236 1171,3234 1227,3233 1282,3231 1338,3228"/>
+                <TextEquiv>
+                    <Unicode>r.iẏ.et de gens signant noniOre quif</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="242,3355 1122,3333 1295,3363 1342,3350 1342,3270 1302,3242 1210,3282 241,3257"/>
+                <Baseline points="248,3328 302,3328 356,3327 411,3327 465,3328 519,3328 574,3328 628,3328 682,3328 737,3328 791,3328 845,3328 900,3327 954,3327 1008,3327 1063,3326 1117,3325 1171,3325 1226,3324 1280,3323 1335,3321"/>
+                <TextEquiv>
+                    <Unicode>ser aBien content Sure dist se mess a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="225,3447 1344,3433 1343,3358 225,3373"/>
+                <Baseline points="232,3418 287,3418 342,3417 397,3417 452,3416 508,3416 563,3416 618,3416 673,3416 728,3416 784,3416 839,3416 894,3416 949,3416 1004,3415 1060,3415 1115,3414 1170,3414 1225,3413 1280,3412 1336,3410"/>
+                <TextEquiv>
+                    <Unicode>gier er op mal fuẏ sient a poinf que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="234,3518 1337,3540 1317,3438 1189,3466 234,3448"/>
+                <Baseline points="241,3505 295,3505 349,3506 404,3506 458,3506 513,3506 567,3506 622,3506 676,3506 731,3506 785,3506 839,3506 894,3505 948,3505 1003,3505 1057,3504 1112,3504 1166,3504 1221,3503 1275,3503 1330,3502"/>
+                <TextEquiv>
+                    <Unicode>Senir sous nẏ pouez car u' en agraf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="223,3615 1336,3621 1336,3541 1049,3516 365,3555 295,3527 223,3559"/>
+                <Baseline points="230,3595 285,3595 340,3595 395,3595 450,3595 505,3596 560,3596 615,3596 670,3596 725,3596 780,3596 835,3596 890,3596 945,3596 1000,3595 1055,3595 1110,3594 1165,3593 1220,3592 1275,3591 1330,3590"/>
+                <TextEquiv>
+                    <Unicode>afaire pour se present.Ilals puĩs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="235,3686 477,3727 1345,3699 1345,3627 1235,3611 1150,3640 950,3607 789,3642 728,3613 675,3645 612,3614 235,3637"/>
+                <Baseline points="241,3682 295,3683 350,3683 405,3684 460,3685 515,3685 570,3685 624,3686 679,3686 734,3686 789,3686 844,3686 899,3685 954,3685 1008,3685 1063,3684 1118,3684 1173,3683 1228,3682 1283,3681 1338,3680"/>
+                <TextEquiv>
+                    <Unicode>quif ne peust estre qus trement faĩt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;}">
+                <Coords points="253,3813 1348,3811 1348,3720 1265,3702 472,3734 253,3702"/>
+                <Baseline points="259,3764 313,3767 367,3769 421,3772 475,3773 529,3775 583,3776 637,3777 691,3777 745,3778 800,3778 854,3778 908,3778 962,3777 1016,3777 1070,3776 1124,3775 1178,3774 1232,3773 1286,3772 1341,3770"/>
+                <TextEquiv>
+                    <Unicode>Jesous remerqẏe de sosire soigouz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sast dangser Deru aiz ce Sanson.
+uisleur adit se cas du me s agier
+Etconse.sseur denianda juree poit
+pour se auoir quesse parf ñ'deuoif a
+fer ou deuers aqquit asue se sonduc
+ecourir ou deuers sẏois pour son pa
+ie.garder.afaquesse chole respondit
+nusson dangser Sire fur cesre matĩ
+ere sous deuezestre fout conseite.
+Ear psus pres sous etGosire chez
+nuse que sostre rose.sous ne deuez 
+pas dessendre se pais daustrus pour
+le softresaisser.pourquoẏ sans quĩ
+fre confeis auoir sous ẏrez ẏerg sẏo
+pour soffre paps garder ef de ffens
+" Ore.Et qicaut ẏous auresoz enne
+mis chassez es eppesses dehors des o
+tre ferre ef roẏausine.Adonc pours
+re zsous seuremief aler secourir ie ss
+duc sauarẏqui so' demande fecours
+Ce conseu creuN et afre pfa se rop.ef
+au mnesagier du Duclauarẏ oust.q
+pour se psent de moẏ ne peust au oir
+Jecours.car nener ne saust moi ost
+ans seiour ne difafion. Sers se paps
+de sẏon.Je suis despsaisant que ie
+ne se puis fec ourir qi son fesois ef no
+pourt ant Gous suẏdirezqui se fien
+ne fouss our sserme coutre sesers css
+u cesier.ef que moẏ aUant fait mo ens
+tre prinse.gr ant le cours iesuẏ eimer
+r.iẏ.et de gens signant noniOre quif
+ser aBien content Sure dist se mess a
+gier er op mal fuẏ sient a poinf que
+Senir sous nẏ pouez car u' en agraf
+afaire pour se present.Ilals puĩs
+quif ne peust estre qus trement faĩt
+Jesous remerqẏe de sosire soigouz</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1424,406 1424,3795 2544,3795 2544,406"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1434,482 1553,458 2219,503 2290,458 2461,495 2541,470 2541,406 2232,370 1813,412 1730,377 1660,408 1433,380"/>
+                <Baseline points="1441,455 1495,456 1550,456 1605,456 1659,457 1714,457 1769,457 1823,458 1878,458 1933,458 1988,458 2042,458 2097,458 2152,457 2206,457 2261,456 2316,455 2370,454 2425,452 2480,451 2535,449"/>
+                <TextEquiv>
+                    <Unicode>soir.ef cui conge de sofire ẏauste ml</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1431,573 2509,564 2526,501 2313,460 2232,506 1997,475 1954,505 1640,505 1532,466 1430,501"/>
+                <Baseline points="1437,543 1491,544 1545,545 1599,546 1653,546 1707,547 1761,547 1815,547 1869,547 1923,548 1978,548 2032,547 2086,547 2140,547 2194,546 2248,546 2302,545 2356,544 2410,543 2464,541 2519,540"/>
+                <TextEquiv>
+                    <Unicode>iesfe se me de pars de ẏous.Et a ces </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1433,647 1658,642 1738,677 1861,638 2527,655 2526,573 2472,555 1433,589"/>
+                <Baseline points="1440,634 1494,635 1548,635 1602,636 1656,636 1710,637 1764,637 1818,637 1872,637 1926,637 1980,636 2034,636 2088,635 2142,635 2196,634 2250,633 2304,633 2358,632 2412,630 2466,629 2520,628"/>
+                <TextEquiv>
+                    <Unicode>notz se Dẏeuafier et mess a "er s.i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1427,760 1532,728 1684,769 2529,726 2513,661 2265,683 2175,645 1888,688 1571,634 1492,681 1427,656"/>
+                <Baseline points="1434,724 1488,724 1542,724 1597,724 1651,725 1706,725 1760,725 1814,726 1869,726 1923,726 1978,726 2032,726 2086,726 2141,725 2195,725 2250,724 2304,723 2358,722 2413,720 2467,718 2522,716"/>
+                <TextEquiv>
+                    <Unicode>duc sauar ẏseiz as aẏers se paẏe drcs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="1433,848 1693,812 2125,848 2310,812 2482,852 2529,829 2529,732 2385,777 2299,735 2141,773 1985,742 1943,772 1432,764"/>
+                <Baseline points="1440,811 1494,812 1548,813 1602,814 1656,814 1710,814 1764,815 1818,815 1872,814 1926,814 1981,814 2035,813 2089,813 2143,812 2197,811 2251,810 2305,810 2359,809 2413,808 2467,807 2522,806"/>
+                <TextEquiv>
+                    <Unicode>quif asne et copf a ses noimiesses ct se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="1428,933 2534,914 2511,847 2313,813 2179,857 1972,857 1919,817 1835,852 1772,823 1632,858 1584,821 1427,856"/>
+                <Baseline points="1434,900 1488,901 1543,902 1597,903 1652,903 1707,904 1761,904 1816,904 1871,903 1925,903 1980,903 2035,902 2089,902 2144,901 2199,900 2253,899 2308,899 2363,898 2417,897 2472,897 2527,896"/>
+                <TextEquiv>
+                    <Unicode>pescsemēt duSoẏz pepiiz.Et qunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="1424,1003 1873,1027 2101,985 2247,1033 2526,989 2525,939 2213,922 2154,949 1423,935"/>
+                <Baseline points="1431,992 1485,991 1539,991 1594,991 1648,991 1703,991 1757,991 1811,991 1866,991 1920,991 1975,991 2029,991 2083,990 2138,990 2192,989 2247,989 2301,988 2355,987 2410,987 2464,985 2519,984"/>
+                <TextEquiv>
+                    <Unicode>se duc Jeeust que senir ne fus pouoit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="1431,1111 1515,1085 1637,1127 1831,1087 1931,1119 2131,1079 2243,1117 2386,1073 2459,1111 2534,1080 2533,1019 2488,1000 2417,1037 2188,1043 1923,1003 1430,1018"/>
+                <Baseline points="1437,1079 1491,1080 1546,1081 1600,1082 1655,1082 1709,1082 1764,1082 1818,1082 1873,1081 1927,1081 1982,1081 2036,1080 2091,1079 2145,1078 2200,1077 2254,1077 2309,1076 2363,1075 2418,1075 2472,1074 2527,1074"/>
+                <TextEquiv>
+                    <Unicode>duropepin defe c ce fec ours morst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="1424,1186 1847,1175 1991,1209 2084,1166 2288,1205 2530,1174 2530,1116 2484,1095 2369,1150 2183,1096 2027,1129 1803,1095 1424,1120"/>
+                <Baseline points="1431,1168 1485,1168 1540,1169 1594,1169 1649,1170 1704,1170 1758,1170 1813,1171 1867,1171 1922,1171 1977,1171 2031,1171 2086,1170 2140,1170 2195,1169 2250,1168 2304,1167 2359,1165 2413,1163 2468,1161 2523,1159"/>
+                <TextEquiv>
+                    <Unicode>en fust despfais aufet dosent.Car se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="1425,1264 2528,1286 2527,1207 2455,1187 2111,1215 1870,1212 1802,1177 1744,1216 1425,1191"/>
+                <Baseline points="1432,1259 1486,1259 1540,1259 1595,1259 1649,1260 1704,1260 1758,1260 1813,1260 1867,1260 1922,1259 1976,1259 2030,1259 2085,1258 2139,1258 2194,1257 2248,1256 2303,1255 2357,1254 2412,1252 2466,1251 2521,1249"/>
+                <TextEquiv>
+                    <Unicode>" Sers cheuasier gr aus guerre suẏfai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="1443,1381 1767,1342 1877,1392 2103,1349 2180,1387 2254,1349 2541,1372 2532,1278 2039,1312 1610,1271 1488,1305 1442,1275"/>
+                <Baseline points="1450,1352 1504,1352 1558,1352 1612,1351 1666,1351 1721,1350 1775,1350 1829,1350 1883,1349 1937,1349 1992,1348 2046,1348 2100,1347 2154,1347 2208,1346 2263,1345 2317,1344 2371,1343 2425,1342 2479,1340 2534,1339"/>
+                <TextEquiv>
+                    <Unicode>oif.Et de crop pres sanoit ase ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="1432,1452 1715,1476 1773,1444 2129,1437 2214,1479 2530,1450 2529,1378 2452,1365 2352,1389 2282,1356 2231,1399 2138,1358 1986,1394 1767,1358 1709,1393 1488,1360 1431,1385"/>
+                <Baseline points="1439,1435 1493,1436 1547,1437 1601,1438 1655,1438 1710,1438 1764,1439 1818,1438 1872,1438 1926,1438 1981,1438 2035,1437 2089,1436 2143,1436 2197,1435 2252,1434 2306,1433 2360,1432 2414,1431 2468,1431 2523,1430"/>
+                <TextEquiv>
+                    <Unicode>Et deuez scauoir qicesuẏ cheu as ier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="1432,1543 1667,1529 1812,1564 1972,1521 2031,1558 2258,1532 2494,1566 2539,1557 2539,1469 1431,1451"/>
+                <Baseline points="1438,1526 1492,1527 1547,1527 1602,1527 1656,1527 1711,1527 1766,1527 1820,1527 1875,1527 1930,1527 1985,1527 2039,1526 2094,1526 2149,1525 2203,1525 2258,1524 2313,1523 2367,1522 2422,1521 2477,1519 2532,1518"/>
+                <TextEquiv>
+                    <Unicode>Sersestoit feere de ferr agu se qe anf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="1429,1655 1550,1616 1615,1653 2085,1619 2365,1657 2531,1612 2514,1556 1429,1561"/>
+                <Baseline points="1436,1617 1490,1617 1544,1617 1599,1617 1653,1617 1708,1617 1762,1617 1816,1617 1871,1617 1925,1616 1980,1616 2034,1616 2088,1615 2143,1615 2197,1614 2252,1614 2306,1613 2360,1612 2415,1611 2469,1610 2524,1609"/>
+                <TextEquiv>
+                    <Unicode>qui fessissant sa damne faisoit garder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="1439,1715 1936,1739 2098,1709 2216,1746 2281,1708 2543,1699 2542,1634 1439,1654"/>
+                <Baseline points="1446,1705 1500,1705 1555,1706 1609,1706 1664,1706 1718,1706 1773,1706 1827,1706 1882,1706 1936,1705 1991,1705 2045,1705 2100,1704 2154,1704 2209,1703 2263,1702 2318,1701 2372,1701 2427,1700 2481,1699 2536,1698"/>
+                <TextEquiv>
+                    <Unicode>en sa ilaisoms aquesse estoit mere de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="1433,1804 1753,1837 2226,1804 2387,1837 2539,1798 2538,1743 2392,1715 2153,1754 1964,1715 1768,1754 1432,1720"/>
+                <Baseline points="1440,1798 1494,1798 1549,1798 1603,1798 1658,1797 1713,1797 1767,1796 1822,1796 1876,1795 1931,1794 1986,1793 2040,1792 2095,1792 2149,1791 2204,1791 2259,1790 2313,1790 2368,1789 2422,1789 2477,1789 2532,1790"/>
+                <TextEquiv>
+                    <Unicode>Nasentun es du sauuaige. Orson nt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="1458,1910 1667,1883 1781,1921 2048,1883 2169,1885 2224,1925 2502,1922 2532,1918 2532,1830 1457,1833"/>
+                <Baseline points="1465,1885 1518,1885 1571,1885 1624,1885 1677,1885 1730,1885 1783,1884 1836,1884 1889,1884 1942,1884 1995,1884 2048,1883 2101,1883 2154,1883 2207,1882 2260,1882 2313,1882 2366,1881 2419,1881 2472,1881 2525,1880"/>
+                <TextEquiv>
+                    <Unicode>ique sous quez deuant oẏdire ef de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="1434,1983 1823,2010 1976,1969 2466,2014 2543,1976 2543,1915 2217,1934 2126,1897 1818,1894 1768,1925 1717,1890 1585,1937 1434,1926"/>
+                <Baseline points="1442,1975 1496,1974 1551,1974 1606,1974 1660,1973 1715,1973 1770,1973 1824,1973 1879,1973 1934,1972 1989,1972 2043,1972 2098,1972 2153,1971 2207,1971 2262,1970 2317,1969 2371,1968 2426,1967 2481,1966 2536,1965"/>
+                <TextEquiv>
+                    <Unicode>csaicer.Or fut se duc sauar ẏdedens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="1440,2071 1886,2066 1987,2099 2155,2060 2359,2100 2547,2074 2547,2000 2218,2019 2081,1976 1948,2017 1439,2008"/>
+                <Baseline points="1446,2067 1500,2066 1555,2065 1610,2064 1664,2064 1719,2063 1774,2063 1828,2062 1883,2062 1938,2062 1993,2062 2047,2061 2102,2061 2157,2061 2211,2061 2266,2060 2321,2060 2375,2059 2430,2059 2485,2058 2540,2057"/>
+                <TextEquiv>
+                    <Unicode>acqf aine moust peusesef dosent poire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="1435,2159 2544,2183 2543,2096 2439,2077 1943,2111 1863,2074 1800,2107 1627,2067 1577,2106 1434,2070"/>
+                <Baseline points="1442,2154 1496,2152 1551,2151 1606,2150 1661,2150 1715,2149 1770,2149 1825,2149 1880,2149 1934,2150 1989,2150 2044,2150 2099,2150 2153,2150 2208,2150 2263,2150 2318,2149 2372,2148 2427,2146 2482,2145 2537,2143"/>
+                <TextEquiv>
+                    <Unicode>se sers cheuasier qui fesse guerre sup</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="1451,2270 1604,2247 1655,2279 1726,2246 1828,2291 1976,2240 2055,2276 2546,2247 2516,2180 1450,2177"/>
+                <Baseline points="1458,2248 1512,2246 1566,2245 1620,2243 1674,2242 1728,2241 1782,2241 1836,2240 1890,2240 1944,2240 1998,2239 2052,2239 2106,2239 2160,2239 2214,2239 2268,2239 2322,2239 2376,2239 2430,2238 2484,2238 2538,2237"/>
+                <TextEquiv>
+                    <Unicode>aisoif pour sa fisse.ILa fait cr ieref</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="1434,2340 2522,2362 2542,2246 2334,2282 2232,2248 2106,2293 1820,2294 1742,2256 1433,2282"/>
+                <Baseline points="1441,2331 1495,2332 1550,2332 1605,2332 1659,2332 1714,2332 1769,2332 1823,2331 1878,2331 1933,2330 1988,2330 2042,2330 2097,2329 2152,2328 2206,2328 2261,2328 2316,2327 2370,2327 2425,2327 2480,2327 2535,2327"/>
+                <TextEquiv>
+                    <Unicode>conunl anDex que fous ceuss de so ost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="1449,2456 2240,2416 2337,2446 2401,2414 2523,2445 2542,2370 1500,2375 1448,2338"/>
+                <Baseline points="1455,2421 1509,2422 1563,2422 1617,2422 1671,2422 1725,2422 1779,2421 1833,2421 1887,2421 1941,2420 1995,2420 2049,2420 2103,2419 2157,2419 2211,2418 2265,2418 2319,2417 2373,2417 2427,2417 2481,2416 2535,2416"/>
+                <TextEquiv>
+                    <Unicode>oient eni point et en ariues et se sende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="1426,2534 2548,2523 2547,2435 2407,2422 2354,2459 2272,2426 2045,2471 1938,2442 1426,2466"/>
+                <Baseline points="1433,2515 1488,2514 1543,2513 1599,2513 1654,2512 1710,2512 1765,2512 1820,2512 1876,2511 1931,2511 1987,2511 2042,2511 2097,2511 2153,2510 2208,2510 2264,2510 2319,2509 2374,2509 2430,2508 2485,2507 2541,2506"/>
+                <TextEquiv>
+                    <Unicode>mai cui mafin is seustsaissir Poregs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="1433,2605 1493,2642 1796,2599 1915,2637 2067,2606 2202,2641 2254,2597 2383,2640 2543,2624 2542,2527 2414,2561 2342,2524 2224,2556 2048,2523 1997,2561 1835,2521 1433,2547"/>
+                <Baseline points="1440,2603 1494,2603 1549,2603 1604,2603 1659,2603 1713,2603 1768,2603 1823,2603 1878,2602 1932,2602 1987,2602 2042,2601 2097,2600 2151,2600 2206,2599 2261,2598 2316,2597 2370,2596 2425,2595 2480,2593 2535,2592"/>
+                <TextEquiv>
+                    <Unicode>confre sesers ch'euasier pour ses paē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="1430,2714 1947,2735 2271,2694 2366,2732 2536,2694 2535,2631 2460,2618 1429,2639"/>
+                <Baseline points="1437,2694 1491,2694 1546,2694 1600,2694 1655,2694 1709,2693 1764,2693 1818,2692 1873,2692 1927,2691 1982,2690 2037,2690 2091,2689 2146,2688 2200,2687 2255,2687 2309,2686 2364,2685 2418,2685 2473,2684 2528,2684"/>
+                <TextEquiv>
+                    <Unicode>ens cosafre.cascun se iuist en poinf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="1427,2783 1528,2816 2543,2801 2528,2711 1426,2734"/>
+                <Baseline points="1433,2783 1488,2783 1543,2783 1598,2783 1653,2783 1708,2783 1763,2783 1819,2783 1874,2783 1929,2782 1984,2782 2039,2781 2094,2781 2149,2780 2205,2779 2260,2778 2315,2777 2370,2776 2425,2775 2480,2773 2536,2772"/>
+                <TextEquiv>
+                    <Unicode>et firent deuoir deus par mer.ef qunf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="1422,2892 2077,2874 2152,2903 2216,2870 2538,2901 2526,2800 1421,2806"/>
+                <Baseline points="1428,2875 1483,2874 1538,2873 1593,2872 1648,2872 1703,2871 1758,2871 1814,2871 1869,2871 1924,2871 1979,2871 2034,2871 2089,2871 2144,2871 2200,2870 2255,2869 2310,2868 2365,2867 2420,2865 2475,2863 2531,2860"/>
+                <TextEquiv>
+                    <Unicode>se iour fut cler ses clarons et fropefs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="1429,2983 1871,2973 1944,3011 2104,2963 2183,3000 2238,2962 2480,2992 2552,2959 2551,2905 2447,2896 1428,2904"/>
+                <Baseline points="1436,2967 1491,2965 1546,2964 1602,2963 1657,2962 1713,2962 1768,2962 1823,2961 1879,2961 1934,2961 1990,2961 2045,2961 2100,2961 2156,2961 2211,2960 2267,2959 2322,2958 2377,2956 2433,2955 2488,2952 2544,2949"/>
+                <TextEquiv>
+                    <Unicode>fes somerent.es gens darmes defoit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="1429,3064 2110,3085 2424,3043 2517,3078 2538,2971 2419,2999 2351,2968 2307,3005 2258,2964 2182,3007 1866,2974 1697,3014 1428,2995"/>
+                <Baseline points="1435,3054 1489,3054 1544,3053 1599,3053 1654,3053 1709,3053 1764,3052 1818,3052 1873,3052 1928,3052 1983,3051 2038,3051 2093,3050 2148,3049 2202,3048 2257,3047 2312,3046 2367,3044 2422,3042 2477,3040 2532,3038"/>
+                <TextEquiv>
+                    <Unicode>fes pars. fanf de ple come de cseuaf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="1438,3169 2538,3165 2537,3069 2295,3055 2264,3085 2214,3055 2149,3098 1917,3100 1873,3064 1815,3101 1437,3070"/>
+                <Baseline points="1445,3146 1499,3144 1553,3143 1607,3142 1662,3141 1716,3141 1770,3140 1824,3140 1879,3140 1933,3139 1987,3139 2041,3139 2096,3138 2150,3138 2204,3138 2258,3137 2313,3136 2367,3136 2421,3135 2475,3133 2530,3132"/>
+                <TextEquiv>
+                    <Unicode>se sont ius achenun pour saissir sors</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="1430,3248 1739,3268 2026,3230 2123,3261 2236,3228 2465,3263 2534,3224 2534,3168 2104,3187 1992,3150 1819,3192 1670,3153 1429,3188"/>
+                <Baseline points="1437,3235 1491,3234 1546,3233 1600,3232 1655,3231 1709,3230 1764,3230 1818,3230 1873,3230 1927,3230 1982,3230 2036,3230 2091,3229 2145,3229 2200,3228 2254,3227 2309,3226 2363,3225 2418,3223 2472,3221 2527,3217"/>
+                <TextEquiv>
+                    <Unicode>de fu ẏisse.gr it ẏaffe auoit se duc sas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="1429,3339 1810,3332 1875,3368 2418,3317 2527,3346 2534,3238 2400,3273 2285,3232 2231,3272 2174,3233 2131,3268 1912,3277 1860,3242 1428,3278"/>
+                <Baseline points="1435,3325 1489,3323 1544,3321 1598,3320 1653,3320 1708,3319 1762,3319 1817,3319 1872,3319 1926,3319 1981,3319 2036,3319 2090,3319 2145,3319 2200,3318 2254,3317 2309,3316 2364,3315 2418,3313 2473,3310 2528,3307"/>
+                <TextEquiv>
+                    <Unicode>uarpdusers cheuasie.lissaissir.mats</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:33;}">
+                <Coords points="1422,3426 2532,3432 2521,3342 1422,3357"/>
+                <Baseline points="1429,3412 1483,3412 1538,3411 1593,3411 1648,3411 1703,3410 1757,3410 1812,3410 1867,3409 1922,3409 1977,3409 2031,3408 2086,3408 2141,3407 2196,3406 2251,3406 2305,3405 2360,3404 2415,3403 2470,3402 2525,3401"/>
+                <TextEquiv>
+                    <Unicode>tef se cuite au iicer si auseqe fois fait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;}">
+                <Coords points="1445,3514 2149,3532 2211,3498 2509,3503 2530,3451 1964,3425 1792,3458 1509,3433 1444,3464"/>
+                <Baseline points="1452,3501 1505,3500 1559,3500 1612,3499 1666,3499 1719,3499 1773,3499 1826,3498 1880,3498 1933,3498 1987,3497 2041,3497 2094,3497 2148,3496 2201,3496 2255,3495 2308,3494 2362,3493 2415,3492 2469,3491 2523,3490"/>
+                <TextEquiv>
+                    <Unicode>o domalge. ef qise cii prif au duc cos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:35;}">
+                <Coords points="1423,3602 2226,3635 2526,3610 2543,3550 2423,3501 2097,3547 1759,3510 1422,3530"/>
+                <Baseline points="1430,3592 1485,3591 1540,3591 1595,3590 1651,3589 1706,3589 1761,3589 1817,3588 1872,3588 1927,3587 1983,3587 2038,3587 2093,3586 2148,3586 2204,3585 2259,3585 2314,3584 2370,3583 2425,3582 2480,3581 2536,3580"/>
+                <TextEquiv>
+                    <Unicode>is ser a oit.se duc sauarẏsaissĩt fore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:36;}">
+                <Coords points="1417,3698 2525,3695 2516,3609 2298,3637 1416,3612"/>
+                <Baseline points="1424,3682 1478,3682 1533,3681 1588,3681 1642,3681 1697,3680 1752,3680 1806,3680 1861,3680 1916,3679 1971,3679 2025,3678 2080,3678 2135,3677 2189,3676 2244,3675 2299,3674 2353,3673 2408,3672 2463,3670 2518,3668"/>
+                <TextEquiv>
+                    <Unicode>daqf aine ci gr auf topaignie.ef quif</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:37;}">
+                <Coords points="1429,3794 1697,3831 1757,3788 1876,3823 2030,3785 2538,3804 2537,3721 2465,3696 1428,3709"/>
+                <Baseline points="1436,3773 1490,3773 1545,3772 1600,3772 1654,3772 1709,3771 1764,3771 1818,3770 1873,3770 1928,3769 1983,3768 2037,3768 2092,3767 2147,3766 2201,3765 2256,3764 2311,3763 2365,3762 2420,3761 2475,3760 2530,3759"/>
+                <TextEquiv>
+                    <Unicode>is fut aus chaps if soma froppesfes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>soir.ef cui conge de sofire ẏauste ml
+iesfe se me de pars de ẏous.Et a ces 
+notz se Dẏeuafier et mess a "er s.i
+duc sauar ẏseiz as aẏers se paẏe drcs
+quif asne et copf a ses noimiesses ct se
+pescsemēt duSoẏz pepiiz.Et qunt
+se duc Jeeust que senir ne fus pouoit
+duropepin defe c ce fec ours morst
+en fust despfais aufet dosent.Car se
+" Sers cheuasier gr aus guerre suẏfai
+oif.Et de crop pres sanoit ase ge
+Et deuez scauoir qicesuẏ cheu as ier
+Sersestoit feere de ferr agu se qe anf
+qui fessissant sa damne faisoit garder
+en sa ilaisoms aquesse estoit mere de
+Nasentun es du sauuaige. Orson nt
+ique sous quez deuant oẏdire ef de
+csaicer.Or fut se duc sauar ẏdedens.
+acqf aine moust peusesef dosent poire
+se sers cheuasier qui fesse guerre sup
+aisoif pour sa fisse.ILa fait cr ieref
+conunl anDex que fous ceuss de so ost
+oient eni point et en ariues et se sende
+mai cui mafin is seustsaissir Poregs
+confre sesers ch'euasier pour ses paē
+ens cosafre.cascun se iuist en poinf
+et firent deuoir deus par mer.ef qunf
+se iour fut cler ses clarons et fropefs
+fes somerent.es gens darmes defoit
+fes pars. fanf de ple come de cseuaf
+se sont ius achenun pour saissir sors
+de fu ẏisse.gr it ẏaffe auoit se duc sas
+uarpdusers cheuasie.lissaissir.mats
+tef se cuite au iicer si auseqe fois fait
+o domalge. ef qise cii prif au duc cos
+is ser a oit.se duc sauarẏsaissĩt fore.
+daqf aine ci gr auf topaignie.ef quif
+is fut aus chaps if soma froppesfes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

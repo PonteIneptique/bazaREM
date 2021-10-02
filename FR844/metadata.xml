@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>522094</docId>
+    <title>fr_844_extrait</title>
+    <uploadTimestamp>1603214588047</uploadTimestamp>
+    <uploader>jean-baptiste.camps@enc-sorbonne.fr</uploader>
+    <uploaderId>10500</uploaderId>
+    <nrOfPages>12</nrOfPages>
+    <pageId>22229373</pageId>
+    <url>https://files.transkribus.eu/Get?id=JDMQZNHTMDQDIOTNQTFWSRGN&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=JDMQZNHTMDQDIOTNQTFWSRGN&amp;fileType=thumb</thumbUrl>
+    <externalId>NA</externalId>
+    <authority>NA</authority>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_522094</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>53702</colId>
+            <colName>Formation</colName>
+            <description>created by thibault.clerice@chartes.psl.eu</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

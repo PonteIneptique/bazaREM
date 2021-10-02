@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Model_1_HTR(htr_id=14910)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Model_1_HTR(htr_id=14910)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Model_1_HTR(htr_id=14910)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Model_1_HTR(htr_id=14910)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Model_1_HTR(htr_id=14910)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Model_1_HTR(htr_id=14910)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+Transkribus</Creator>
+        <Created>2019-11-18T14:38:26.845+01:00</Created>
+        <LastChange>2019-11-18T19:56:19.483+01:00</LastChange>
+        <TranskribusMetadata docId="254217" pageId="11126849" pageNr="1" tsid="19531298" status="GT" userId="10500" imgUrl="https://files.transkribus.eu/Get?id=FIKPPDMRASZRRSNSYYQPTIHL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZVHQPAKPIKQXUEXGWLXMWGAV" imageId="7592449"/>
+    </Metadata>
+    <Page imageFilename="254217_0001_11126849.jpg" imageWidth="3300" imageHeight="4516">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1633103348126" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1574088484794_820"/>
+                <RegionRefIndexed index="1" regionRef="region_1574088493105_823"/>
+                <RegionRefIndexed index="2" regionRef="region_1574088498237_826"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1574088484794_820" custom="readingOrder {index:0;}">
+            <Coords points="235,364 1417,364 1417,2091 235,2091"/>
+            <TextLine id="region_1574088484794_820l1" custom="readingOrder {index:0;}">
+                <Coords points="268,532 1375,520 1375,453 1332,437 268,446"/>
+                <Baseline points="275,510 329,512 384,514 438,515 493,516 548,516 602,516 657,516 712,516 766,516 821,516 876,515 930,514 985,514 1040,514 1094,513 1149,513 1204,513 1258,514 1313,514 1368,515"/>
+                <TextEquiv>
+                    <Unicode>Et quant les gardes du champ lōt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l2" custom="readingOrder {index:1;}">
+                <Coords points="268,617 1381,637 1381,545 1346,533 687,562 470,522 268,561"/>
+                <Baseline points="274,608 329,607 384,607 439,606 494,606 549,606 604,605 659,605 714,605 769,605 824,605 879,605 934,605 989,605 1044,605 1099,605 1154,605 1209,605 1264,605 1319,606 1374,606"/>
+                <TextEquiv>
+                    <Unicode>entendu vng moult noble chevalier qͥ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l3" custom="readingOrder {index:2;}">
+                <Coords points="269,700 1379,711 1379,640 1219,621 961,649 892,611 606,654 269,627"/>
+                <Baseline points="276,697 330,696 385,696 440,695 495,695 550,695 604,695 659,694 714,694 769,694 824,694 878,694 933,694 988,694 1043,694 1098,694 1152,695 1207,695 1262,695 1317,695 1372,696"/>
+                <TextEquiv>
+                    <Unicode>de ce faire auoit la charge vint tan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l4" custom="readingOrder {index:3;}">
+                <Coords points="260,789 1332,811 1373,795 1373,708 1096,741 939,699 877,737 260,724"/>
+                <Baseline points="266,788 321,786 376,785 431,785 486,784 541,784 596,784 651,784 706,784 761,784 816,784 871,785 926,785 981,785 1036,785 1091,786 1146,786 1201,785 1256,785 1311,785 1366,784"/>
+                <TextEquiv>
+                    <Unicode>tost deuers grigar et luy demāda q̄l</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l5" custom="readingOrder {index:4;}">
+                <Coords points="266,890 1329,903 1367,893 1367,801 1116,831 1025,793 856,826 813,792 710,833 556,797 266,809"/>
+                <Baseline points="273,877 327,875 381,874 436,874 490,873 544,873 599,873 653,873 707,874 762,874 816,875 870,875 925,875 979,876 1033,876 1088,876 1142,875 1196,875 1251,874 1305,873 1360,871"/>
+                <TextEquiv>
+                    <Unicode>le chose il demandoit. Lors luy dist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l6" custom="readingOrder {index:5;}">
+                <Coords points="269,990 1244,962 1357,1003 1371,905 1136,884 1010,916 968,885 857,921 530,886 422,921 362,887 269,920"/>
+                <Baseline points="276,968 330,967 384,965 439,964 493,963 548,962 602,962 656,962 711,962 765,962 820,963 874,963 928,964 983,964 1037,965 1092,965 1146,965 1200,965 1255,965 1309,965 1364,965"/>
+                <TextEquiv>
+                    <Unicode>grigar. sire faictes descendre le roy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l7" custom="readingOrder {index:6;}">
+                <Coords points="262,1096 685,1051 1373,1067 1373,1002 1267,977 966,1014 855,973 717,971 654,1014 545,977 262,1001"/>
+                <Baseline points="270,1059 324,1057 379,1056 434,1055 489,1054 544,1054 598,1053 653,1053 708,1053 763,1054 818,1054 872,1054 927,1055 982,1055 1037,1055 1092,1056 1146,1056 1201,1056 1256,1056 1311,1055 1366,1054"/>
+                <TextEquiv>
+                    <Unicode>pepin. Car ie veul deuant tous dire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l8" custom="readingOrder {index:7;}">
+                <Coords points="259,1156 1371,1158 1322,1100 1059,1101 1007,1064 888,1091 746,1064 694,1100 557,1061 259,1107"/>
+                <Baseline points="266,1153 320,1151 375,1149 430,1147 485,1146 540,1145 595,1144 650,1143 705,1142 760,1142 815,1142 869,1142 924,1142 979,1142 1034,1143 1089,1144 1144,1144 1199,1145 1254,1146 1309,1147 1364,1148"/>
+                <TextEquiv>
+                    <Unicode>et confesser la faulcete de mon cas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l9" custom="readingOrder {index:8;}">
+                <Coords points="265,1249 977,1241 1046,1274 1151,1227 1370,1274 1370,1188 1177,1198 1047,1152 988,1188 882,1152 737,1188 265,1168"/>
+                <Baseline points="272,1245 326,1242 381,1240 435,1237 490,1236 544,1235 599,1234 653,1234 708,1233 762,1233 817,1234 872,1234 926,1234 981,1235 1035,1235 1090,1235 1144,1235 1199,1235 1253,1234 1308,1233 1363,1232"/>
+                <TextEquiv>
+                    <Unicode>Adonc la chose fust signifiee au roy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l10" custom="readingOrder {index:9;}">
+                <Coords points="277,1345 722,1323 889,1367 1005,1332 1048,1364 1108,1321 1355,1340 1370,1274 276,1257"/>
+                <Baseline points="284,1334 340,1331 397,1329 454,1327 511,1326 567,1325 624,1324 681,1324 738,1324 795,1324 851,1325 908,1325 965,1326 1022,1326 1079,1326 1135,1326 1192,1326 1249,1326 1306,1325 1363,1324"/>
+                <TextEquiv>
+                    <Unicode>lequel descendit du palays et entra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l11" custom="readingOrder {index:10;}">
+                <Coords points="267,1431 684,1417 869,1449 970,1416 1025,1458 1088,1420 1369,1423 1369,1360 456,1369 416,1340 267,1389"/>
+                <Baseline points="274,1420 328,1418 382,1417 437,1415 491,1415 546,1414 600,1414 654,1414 709,1415 763,1415 818,1416 872,1416 926,1417 981,1417 1035,1418 1090,1418 1144,1418 1198,1417 1253,1417 1307,1416 1362,1414"/>
+                <TextEquiv>
+                    <Unicode>ou champ pour grigar oyr et enten¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l12" custom="readingOrder {index:11;}">
+                <Coords points="274,1581 371,1566 451,1513 515,1535 543,1512 650,1529 673,1508 723,1539 769,1516 864,1520 885,1514 885,1463 802,1437 758,1461 647,1455 578,1428 538,1462 494,1462 459,1430 382,1462 320,1432 272,1443"/>
+                <Baseline points="280,1510 309,1510 339,1510 369,1510 399,1510 429,1509 459,1509 489,1508 519,1507 549,1506 579,1506 608,1505 638,1505 668,1504 698,1504 728,1504 758,1504 788,1505 818,1506 848,1507 878,1509"/>
+                <TextEquiv>
+                    <Unicode>dre plus clerement.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l13" custom="readingOrder {index:12;}">
+                <Coords points="346,1675 421,1709 757,1698 811,1730 1126,1683 1227,1718 1384,1694 1385,1616 1208,1604 1124,1646 935,1599 854,1633 796,1609 486,1641 443,1603 346,1606"/>
+                <Baseline points="353,1679 404,1680 455,1681 506,1682 558,1684 609,1685 660,1685 711,1686 763,1687 814,1687 865,1688 916,1688 968,1688 1019,1689 1070,1689 1121,1689 1173,1689 1224,1689 1275,1689 1326,1688 1378,1688"/>
+                <TextEquiv>
+                    <Unicode>Comment grigar apres ce que il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l14" custom="readingOrder {index:13;}">
+                <Coords points="275,1807 393,1773 1383,1797 1383,1720 1180,1701 1003,1737 276,1698"/>
+                <Baseline points="283,1777 337,1776 392,1775 446,1775 501,1775 556,1775 610,1775 665,1775 720,1775 774,1776 829,1776 884,1777 938,1777 993,1777 1048,1778 1102,1778 1157,1778 1212,1778 1266,1778 1321,1777 1376,1777"/>
+                <TextEquiv>
+                    <Unicode>fut conquis et vaincus par orson con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l15" custom="readingOrder {index:14;}">
+                <Coords points="274,1898 782,1865 891,1906 1017,1867 1372,1895 1372,1817 1270,1787 1052,1824 837,1788 787,1817 656,1790 472,1820 392,1782 274,1808"/>
+                <Baseline points="281,1863 335,1863 389,1863 443,1863 497,1863 552,1864 606,1864 660,1865 714,1865 768,1866 823,1866 877,1867 931,1867 985,1867 1039,1867 1094,1867 1148,1867 1202,1867 1256,1867 1310,1866 1365,1865"/>
+                <TextEquiv>
+                    <Unicode>fessa au roy la trahyson de hauffroy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l16" custom="readingOrder {index:15;}">
+                <Coords points="260,1959 568,1995 781,1952 1372,1978 1372,1895 1304,1878 1182,1876 1125,1917 923,1880 546,1908 429,1868 261,1904"/>
+                <Baseline points="267,1955 321,1955 376,1955 431,1955 486,1955 541,1955 596,1956 651,1956 706,1957 761,1957 816,1957 870,1958 925,1958 980,1958 1035,1958 1090,1958 1145,1958 1200,1958 1255,1958 1310,1957 1365,1956"/>
+                <TextEquiv>
+                    <Unicode>et de henrẏ contre valentin ainsi fai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l17" custom="readingOrder {index:16;}">
+                <Coords points="1070,2088 1159,2082 1185,2058 1215,2051 1246,2067 1292,2057 1315,2078 1338,2057 1357,2061 1357,2000 1317,2001 1267,1968 1236,1971 1184,2015 1128,1974 1097,1990 1070,1982"/>
+                <Baseline points="1077,2047 1104,2049 1131,2049 1158,2050 1185,2049 1213,2049 1240,2048 1267,2048 1294,2048 1321,2048 1349,2049"/>
+                <TextEquiv>
+                    <Unicode>xix. chap̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088484794_820l18" custom="readingOrder {index:17;}">
+                <Coords points="246,2051 258,2049 289,2067 326,2052 346,2059 359,2053 375,2063 389,2058 392,1981 382,1981 360,1964 347,1975 336,1968 293,1993 287,1988 272,2002 261,1992 249,1991"/>
+                <Baseline points="254,2047 279,2049 305,2050 330,2052 356,2052 382,2051"/>
+                <TextEquiv>
+                    <Unicode>cte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Et quant les gardes du champ lōt
+entendu vng moult noble chevalier qͥ
+de ce faire auoit la charge vint tan¬
+tost deuers grigar et luy demāda q̄l
+le chose il demandoit. Lors luy dist
+grigar. sire faictes descendre le roy
+pepin. Car ie veul deuant tous dire
+et confesser la faulcete de mon cas.
+Adonc la chose fust signifiee au roy
+lequel descendit du palays et entra
+ou champ pour grigar oyr et enten¬
+dre plus clerement.
+Comment grigar apres ce que il
+fut conquis et vaincus par orson con
+fessa au roy la trahyson de hauffroy
+et de henrẏ contre valentin ainsi fai
+xix. chap̄
+cte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1574088493105_823" custom="readingOrder {index:1;}">
+            <Coords points="221,3366 1417,3366 1417,3889 221,3889"/>
+            <TextLine id="region_1574088493105_823l1" custom="readingOrder {index:0;}">
+                <Coords points="529,3477 771,3496 809,3471 874,3492 1136,3463 1378,3493 1378,3405 1270,3366 1103,3416 1026,3385 866,3403 793,3381 672,3416 529,3381"/>
+                <Baseline points="536,3462 577,3463 619,3463 661,3464 703,3464 744,3464 786,3464 828,3464 870,3464 911,3464 953,3463 995,3463 1037,3463 1078,3464 1120,3464 1162,3464 1204,3465 1245,3466 1287,3467 1329,3468 1371,3469"/>
+                <TextEquiv>
+                    <Unicode>Dant grigar a veu le Roy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088493105_823l2" custom="readingOrder {index:1;}">
+                <Coords points="552,3559 782,3552 853,3591 978,3550 1093,3592 1140,3559 1287,3590 1387,3560 1387,3490 772,3511 552,3476"/>
+                <Baseline points="559,3550 600,3550 641,3551 682,3551 723,3551 764,3551 805,3551 846,3551 887,3551 928,3552 969,3552 1010,3552 1051,3552 1092,3552 1133,3552 1174,3553 1215,3553 1256,3553 1297,3553 1338,3553 1380,3554"/>
+                <TextEquiv>
+                    <Unicode>il luy a crye mercy en luy di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088493105_823l3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+                <Coords points="533,3654 710,3681 931,3644 1253,3677 1289,3648 1386,3661 1386,3588 1251,3567 1076,3601 895,3567 815,3604 685,3552 629,3597 538,3575"/>
+                <Baseline points="577,3643 617,3644 657,3645 697,3645 737,3645 777,3645 817,3644 857,3644 897,3644 937,3643 978,3643 1018,3642 1058,3642 1098,3642 1138,3641 1178,3641 1218,3642 1258,3642 1298,3643 1338,3644 1379,3645"/>
+                <TextEquiv>
+                    <Unicode>sant helas sire trop ay fail¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088493105_823l4" custom="readingOrder {index:3;}">
+                <Coords points="260,3729 326,3763 397,3731 621,3762 1397,3745 1398,3672 1346,3664 261,3662"/>
+                <Baseline points="268,3725 324,3728 380,3731 436,3732 492,3733 548,3734 604,3735 660,3735 716,3735 772,3734 829,3734 885,3733 941,3733 997,3732 1053,3732 1109,3732 1165,3732 1221,3732 1277,3733 1333,3734 1390,3735"/>
+                <TextEquiv>
+                    <Unicode>ly vers vostre haulte magnificence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088493105_823l5" custom="readingOrder {index:4;}">
+                <Coords points="279,3842 617,3853 700,3819 1389,3864 1389,3758 279,3770"/>
+                <Baseline points="286,3823 340,3824 395,3825 450,3826 505,3827 560,3827 614,3827 669,3827 724,3827 779,3827 834,3827 888,3827 943,3827 998,3827 1053,3827 1108,3827 1162,3827 1217,3828 1272,3829 1327,3830 1382,3831"/>
+                <TextEquiv>
+                    <Unicode>mais a ce ma contraint hauffroy et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dant grigar a veu le Roy
+il luy a crye mercy en luy di
+sant helas sire trop ay fail¬
+ly vers vostre haulte magnificence
+mais a ce ma contraint hauffroy et</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1574088498237_826" custom="readingOrder {index:2;}">
+            <Coords points="1453,400 2635,400 2635,3910 1453,3910"/>
+            <TextLine id="region_1574088498237_826l1" custom="readingOrder {index:0;}">
+                <Coords points="1467,540 2586,537 2569,444 2191,484 2085,438 1469,432"/>
+                <Baseline points="1475,510 1530,512 1585,514 1640,515 1695,517 1751,518 1806,520 1861,521 1916,522 1971,523 2027,523 2082,524 2137,525 2192,525 2247,526 2303,526 2358,527 2413,527 2468,528 2523,528 2579,529"/>
+                <TextEquiv>
+                    <Unicode>henry son frere. Car pour complai¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l2" custom="readingOrder {index:1;}">
+                <Coords points="1456,620 2258,618 2294,650 2411,622 2452,655 2573,635 2574,558 1457,533"/>
+                <Baseline points="1463,605 1518,605 1573,606 1628,607 1683,607 1739,608 1794,609 1849,609 1904,610 1959,611 2015,611 2070,612 2125,613 2180,613 2235,614 2291,615 2346,616 2401,617 2456,618 2511,619 2567,620"/>
+                <TextEquiv>
+                    <Unicode>re a leurs voulentez ie me sui per¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l3" custom="readingOrder {index:2;}">
+                <Coords points="1471,734 1622,692 2474,730 2565,711 2566,657 1473,623"/>
+                <Baseline points="1479,693 1533,693 1587,693 1641,693 1695,694 1749,695 1803,695 1857,696 1911,697 1965,699 2019,700 2073,701 2127,702 2181,704 2235,704 2289,706 2343,706 2397,707 2451,707 2505,708 2559,708"/>
+                <TextEquiv>
+                    <Unicode>force de Valentin prendre et mettre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l4" custom="readingOrder {index:3;}">
+                <Coords points="1464,794 2365,823 2548,812 2563,751 2374,724 2260,752 2088,711 1465,732"/>
+                <Baseline points="1472,784 1526,784 1580,784 1634,784 1688,785 1742,785 1796,786 1851,787 1905,787 1959,788 2013,789 2067,790 2121,791 2175,792 2230,793 2284,794 2338,795 2392,796 2446,798 2500,799 2555,800"/>
+                <TextEquiv>
+                    <Unicode>a mort cruelle. Et fi ay tant fait de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l5" custom="readingOrder {index:4;}">
+                <Coords points="1466,890 2318,884 2417,931 2555,912 2557,821 1766,833 1467,799"/>
+                <Baseline points="1474,871 1527,872 1581,872 1635,873 1689,873 1742,874 1796,874 1850,875 1904,875 1957,876 2011,877 2065,877 2119,878 2172,879 2226,880 2280,881 2334,882 2387,884 2441,886 2495,887 2549,890"/>
+                <TextEquiv>
+                    <Unicode>diligence que en vne forest ie lay prīs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l6" custom="readingOrder {index:5;}">
+                <Coords points="1455,984 2572,980 2572,925 2518,910 2404,935 2131,890 1981,929 1743,876 1456,921"/>
+                <Baseline points="1463,965 1518,964 1573,964 1628,963 1683,963 1738,964 1793,964 1848,964 1903,965 1958,965 2014,966 2069,967 2124,968 2179,970 2234,971 2289,972 2344,974 2399,975 2454,976 2509,978 2565,980"/>
+                <TextEquiv>
+                    <Unicode>et tenu de si pres quil est contraint a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l7" custom="readingOrder {index:6;}">
+                <Coords points="1459,1075 2442,1061 2531,1091 2551,997 2258,1031 2127,989 1910,1016 1752,976 1625,1010 1564,974 1460,1007"/>
+                <Baseline points="1466,1055 1519,1054 1573,1054 1627,1053 1681,1053 1735,1053 1788,1053 1842,1054 1896,1054 1950,1055 2004,1056 2057,1057 2111,1058 2165,1059 2219,1060 2273,1062 2326,1063 2380,1064 2434,1066 2488,1067 2542,1069"/>
+                <TextEquiv>
+                    <Unicode>tenir prison tant que par entre vo⁹</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l8" custom="readingOrder {index:7;}">
+                <Coords points="1482,1155 2559,1175 2576,1092 1869,1100 1588,1061 1483,1092"/>
+                <Baseline points="1489,1142 1542,1142 1596,1141 1650,1141 1704,1141 1758,1141 1812,1142 1866,1142 1920,1143 1974,1144 2028,1145 2081,1146 2135,1147 2189,1148 2243,1149 2297,1150 2351,1151 2405,1152 2459,1154 2513,1155 2567,1156"/>
+                <TextEquiv>
+                    <Unicode>foit delibere et regarde de q̄lle mort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l9" custom="readingOrder {index:8;}">
+                <Coords points="1468,1238 2560,1263 2561,1186 2468,1209 2408,1164 2249,1198 2077,1154 1822,1194 1469,1175"/>
+                <Baseline points="1475,1231 1528,1231 1582,1231 1636,1230 1690,1231 1744,1231 1798,1231 1852,1232 1906,1232 1960,1233 2014,1234 2067,1235 2121,1236 2175,1237 2229,1239 2283,1240 2337,1242 2391,1243 2445,1245 2499,1246 2553,1248"/>
+                <TextEquiv>
+                    <Unicode>il deura mourrir et etre iuge. Quāt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l10" custom="readingOrder {index:9;}">
+                <Coords points="1454,1322 1620,1360 1679,1325 1953,1321 2570,1348 2571,1282 2496,1257 2348,1295 2172,1253 1838,1242 1678,1278 1456,1245"/>
+                <Baseline points="1461,1324 1516,1322 1571,1321 1626,1321 1681,1320 1736,1320 1791,1320 1846,1321 1901,1321 1956,1322 2012,1323 2067,1325 2122,1326 2177,1327 2232,1329 2287,1331 2342,1332 2397,1333 2452,1335 2507,1336 2563,1338"/>
+                <TextEquiv>
+                    <Unicode>le roy entendit les nouuelles et la ue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l11" custom="readingOrder {index:10;}">
+                <Coords points="1457,1418 2396,1423 2483,1459 2566,1431 2567,1378 2313,1343 2161,1373 2037,1332 1458,1369"/>
+                <Baseline points="1464,1414 1518,1413 1573,1412 1628,1411 1683,1410 1737,1410 1792,1410 1847,1410 1902,1411 1956,1412 2011,1413 2066,1414 2121,1415 2175,1417 2230,1418 2285,1419 2340,1421 2394,1422 2449,1423 2504,1425 2559,1426"/>
+                <TextEquiv>
+                    <Unicode>rite de cette chose Il commanda que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l12" custom="readingOrder {index:11;}">
+                <Coords points="1451,1527 2572,1517 2572,1462 2229,1426 1988,1467 1787,1422 1452,1451"/>
+                <Baseline points="1459,1507 1514,1505 1569,1502 1624,1501 1680,1500 1735,1500 1790,1500 1845,1500 1901,1501 1956,1502 2011,1503 2066,1504 2122,1506 2177,1507 2232,1508 2287,1510 2343,1511 2398,1511 2453,1512 2508,1512 2564,1511"/>
+                <TextEquiv>
+                    <Unicode>grigar fust prins et pendu puis mō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l13" custom="readingOrder {index:12;}">
+                <Coords points="1458,1612 2576,1612 2576,1547 2481,1525 2364,1556 2133,1514 1904,1551 1803,1513 1756,1549 1633,1514 1556,1558 1459,1532"/>
+                <Baseline points="1466,1595 1521,1593 1576,1592 1631,1591 1686,1590 1741,1590 1796,1590 1852,1591 1907,1591 1962,1592 2017,1593 2072,1594 2127,1595 2182,1596 2238,1598 2293,1599 2348,1600 2403,1601 2458,1602 2513,1602 2569,1602"/>
+                <TextEquiv>
+                    <Unicode>nta a cheval pour aler vers la prison</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l14" custom="readingOrder {index:13;}">
+                <Coords points="1463,1688 1647,1723 1697,1680 2447,1719 2574,1707 2575,1645 2213,1604 1464,1623"/>
+                <Baseline points="1471,1680 1525,1679 1580,1679 1635,1679 1690,1679 1745,1679 1799,1680 1854,1680 1909,1681 1964,1682 2019,1683 2073,1684 2128,1685 2183,1686 2238,1687 2293,1689 2347,1690 2402,1692 2457,1693 2512,1695 2567,1696"/>
+                <TextEquiv>
+                    <Unicode>en laquelle estoit valentin. Et quāt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l15" custom="readingOrder {index:14;}">
+                <Coords points="1458,1774 1709,1807 1809,1768 1973,1801 2063,1773 2221,1813 2573,1786 2573,1726 2481,1699 1944,1731 1806,1695 1658,1736 1580,1693 1459,1729"/>
+                <Baseline points="1465,1772 1520,1771 1575,1770 1630,1770 1685,1770 1740,1770 1795,1770 1850,1771 1905,1771 1960,1772 2015,1772 2070,1773 2125,1774 2180,1775 2235,1776 2290,1778 2345,1779 2400,1780 2455,1781 2510,1782 2565,1783"/>
+                <TextEquiv>
+                    <Unicode>orson aperceut que le roy fust a che¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l16" custom="readingOrder {index:15;}">
+                <Coords points="1454,1864 2582,1890 2583,1811 2467,1799 1739,1823 1455,1784"/>
+                <Baseline points="1461,1859 1516,1859 1572,1858 1628,1859 1683,1859 1739,1859 1795,1860 1850,1860 1906,1861 1962,1862 2018,1863 2073,1864 2129,1865 2185,1866 2240,1867 2296,1867 2352,1869 2407,1869 2463,1870 2519,1871 2575,1871"/>
+                <TextEquiv>
+                    <Unicode>min mis avec quatre ducz et quatre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l17" custom="readingOrder {index:16;}">
+                <Coords points="1458,1941 2571,1974 2572,1908 2528,1893 2410,1925 2186,1878 2079,1911 1844,1864 1528,1905 1459,1870"/>
+                <Baseline points="1465,1949 1519,1948 1574,1948 1629,1947 1684,1948 1739,1948 1794,1949 1849,1950 1904,1951 1959,1952 2014,1953 2068,1955 2123,1956 2178,1957 2233,1958 2288,1959 2343,1960 2398,1961 2453,1961 2508,1961 2563,1961"/>
+                <TextEquiv>
+                    <Unicode>contes dont il estoit richement acom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l18" custom="readingOrder {index:17;}">
+                <Coords points="1464,2068 1661,2043 1731,2079 1795,2038 2573,2062 2574,1985 1466,1971"/>
+                <Baseline points="1471,2039 1525,2039 1580,2039 1635,2039 1690,2039 1745,2039 1799,2040 1854,2040 1909,2041 1964,2042 2019,2043 2073,2044 2128,2044 2183,2045 2238,2046 2293,2047 2347,2049 2402,2050 2457,2051 2512,2051 2567,2053"/>
+                <TextEquiv>
+                    <Unicode>paigne. Il va deuant en monstrant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l19" custom="readingOrder {index:18;}">
+                <Coords points="1463,2134 2537,2168 2580,2159 2582,2071 2471,2097 2416,2062 2351,2102 2181,2054 1835,2080 1795,2049 1675,2092 1625,2059 1464,2069"/>
+                <Baseline points="1471,2130 1526,2129 1581,2128 1636,2127 1691,2126 1746,2127 1801,2127 1856,2128 1911,2128 1966,2130 2022,2131 2077,2133 2132,2133 2187,2135 2242,2137 2297,2138 2352,2139 2407,2141 2462,2142 2517,2142 2573,2143"/>
+                <TextEquiv>
+                    <Unicode>le lieu ou valentin fust prins moult</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l20" custom="readingOrder {index:19;}">
+                <Coords points="1460,2214 2561,2263 2562,2180 2449,2149 2268,2190 2220,2155 1461,2148"/>
+                <Baseline points="1467,2214 1521,2216 1575,2216 1630,2217 1684,2218 1738,2218 1793,2219 1847,2220 1901,2220 1956,2221 2010,2222 2064,2222 2119,2223 2173,2224 2227,2225 2282,2226 2336,2227 2390,2228 2445,2230 2499,2231 2554,2233"/>
+                <TextEquiv>
+                    <Unicode>droit le mena et aloit plus que vng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l21" custom="readingOrder {index:20;}">
+                <Coords points="1463,2325 2303,2324 2392,2357 2577,2323 2578,2259 2443,2239 2336,2270 2035,2227 1465,2228"/>
+                <Baseline points="1471,2304 1528,2305 1586,2306 1644,2307 1702,2308 1760,2309 1818,2310 1875,2311 1933,2312 1991,2313 2049,2314 2107,2315 2165,2316 2222,2317 2280,2318 2338,2319 2396,2320 2454,2321 2512,2322 2570,2323"/>
+                <TextEquiv>
+                    <Unicode>cheval ne pouoit aler. et tant fait de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l22" custom="readingOrder {index:21;}">
+                <Coords points="1450,2403 2562,2426 2563,2364 2482,2339 2288,2368 2217,2330 2121,2364 2012,2321 1770,2343 1690,2312 1575,2354 1452,2318"/>
+                <Baseline points="1457,2398 1511,2397 1566,2396 1621,2396 1676,2396 1731,2397 1786,2398 1841,2399 1896,2400 1951,2402 2006,2403 2060,2404 2115,2406 2170,2408 2225,2409 2280,2410 2335,2410 2390,2410 2445,2410 2500,2409 2555,2408"/>
+                <TextEquiv>
+                    <Unicode>nanieres sauvaiges que toute la cō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1574088498237_826l23" custom="readingOrder {index:22;}">
+                <Coords points="1466,2519 1848,2489 2545,2526 2574,2434 1468,2415"/>
+                <Baseline points="1473,2488 1527,2486 1582,2485 1636,2485 1691,2485 1746,2485 1800,2486 1855,2487 1910,2488 1964,2490 2019,2491 2074,2493 2128,2495 2183,2496 2238,2497 2292,2498 2347,2499 2402,2499 2456,2499 2511,2499 2566,2497"/>
+                <TextEquiv>
+                    <Unicode>paignie souvent faisoit rire. Et dist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>henry son frere. Car pour complai¬
+re a leurs voulentez ie me sui per¬
+force de Valentin prendre et mettre
+a mort cruelle. Et fi ay tant fait de
+diligence que en vne forest ie lay prīs
+et tenu de si pres quil est contraint a
+tenir prison tant que par entre vo⁹
+foit delibere et regarde de q̄lle mort
+il deura mourrir et etre iuge. Quāt
+le roy entendit les nouuelles et la ue
+rite de cette chose Il commanda que
+grigar fust prins et pendu puis mō
+nta a cheval pour aler vers la prison
+en laquelle estoit valentin. Et quāt
+orson aperceut que le roy fust a che¬
+min mis avec quatre ducz et quatre
+contes dont il estoit richement acom
+paigne. Il va deuant en monstrant
+le lieu ou valentin fust prins moult
+droit le mena et aloit plus que vng
+cheval ne pouoit aler. et tant fait de
+nanieres sauvaiges que toute la cō
+paignie souvent faisoit rire. Et dist</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
